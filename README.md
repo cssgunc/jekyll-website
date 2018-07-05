@@ -6,7 +6,7 @@ A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).
 
 # How to Use
 
-For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details, 
+For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details,
 or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/), 
 and [creating pages](https://jekyllrb.com/docs/pages/).
 
@@ -25,8 +25,8 @@ and [creating pages](https://jekyllrb.com/docs/pages/).
 Original README from HTML5 UP:
 
 ```
-Forty by HTML5 UP
-html5up.net | @ajlkn
+CS+SG at UNC-CH
+cssgunc.unc.edu | @cs+sg
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 

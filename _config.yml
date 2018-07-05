@@ -2,7 +2,7 @@
 title: CS + Social Good
 subtitle: at UNC Chapel Hill
 email: cssgunc@gmail.com
-description: Fostering discussions and actions for ethical uses of technology, <br />with an aim to give back to UNC and the greater community through our projects and collaborations.
+description: Fostering discussions and actions for ethical uses of technology, with an aim to give back to UNC and the greater community through our projects and collaborations.
 baseurl: "/jekyll-website" # the subpath of your site, e.g. /blog
 url: https://unc-cs-sg.github.io # the base hostname & protocol for your site
 author:

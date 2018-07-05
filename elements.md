@@ -1,9 +1,9 @@
 ---
-layout: page
-title: Elements
+layout: posts
+title: Blog
 nav-menu: true
 ---
-
+<!--before the layout was "page" in case this is a bug/doesn't work-->
 <!-- Main -->
 <div id="main" class="alt">
 
@@ -44,7 +44,7 @@ nav-menu: true
 <hr class="major" />
 
 <!-- Elements -->
-<h2 id="elements">Elements</h2>
+<h2 id="elements">Blog</h2>
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 

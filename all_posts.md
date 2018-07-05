@@ -1,9 +1,9 @@
 ---
 layout: allposts
-title: All posts
-landing-title: 'All posts'
+title: About us
+landing-title: 'About us'
 nav-menu: true
-description: null
+description: Meet our team!
 image: null
 author: null
 ---
