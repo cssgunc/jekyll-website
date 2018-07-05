@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'CS + Social Good at UNC Chapel Hill'
+landing-title: 'CS + Social Good'
 description: null
 image: assets/images/banner.jpg
 author: null
