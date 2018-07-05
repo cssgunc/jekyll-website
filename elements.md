@@ -1,6 +1,7 @@
 ---
 layout: posts
 title: Blog
+description: Hear from our members about anything and everything tech.
 nav-menu: true
 ---
 <!--before the layout was "page" in case this is a bug/doesn't work-->

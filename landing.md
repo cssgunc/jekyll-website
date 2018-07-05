@@ -1,8 +1,8 @@
 ---
 layout: landing
 title: Call to Action
-description: 'There is so much to be done. Here's what we want from you.'
-image: assets/images/pic07.jpg
+description: There is so much to be done. Here's what we want from you.
+image: assets/images/franklinStreet.jpg
 nav-menu: true
 ---
 
