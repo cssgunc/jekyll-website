@@ -4,7 +4,7 @@ title: About us
 landing-title: 'About us'
 nav-menu: true
 description: Meet our team!
-image: null
+image: /assets/images/oldWell.jpg
 author: null
 ---
 
