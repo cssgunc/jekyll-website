@@ -75,7 +75,7 @@ nav-menu: true
 </section>
 
 <!-- Three -->
-<section id="three">
+<!--<section id="three">
 	<div class="inner">
 		<header class="major">
 			<h2>Massa libero</h2>
@@ -85,6 +85,6 @@ nav-menu: true
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
 	</div>
-</section>
+</section>-->
 
 </div>
