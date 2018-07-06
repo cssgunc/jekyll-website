@@ -15,7 +15,10 @@ nav-menu: true
 		<header class="major">
 			<h2>Apply to be a member!</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Are you interested in using technology to create social good? We are an organization for all students at UNC, both undergraduate and graduate students. We are looking for people who are eager to make a difference in their community and are ready to devote time to a cause that matters to them.</p>
+		<ul class="actions">
+			<li><a href="https://docs.google.com/forms/d/1HpsBUa2yR1Zu6lbFIhCzEHZMJXepGHSViy2Jt0Pbc0k/prefill" class="button">Apply now</a></li>
+		</ul>
 	</div>
 </section>
 
