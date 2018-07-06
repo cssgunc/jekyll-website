@@ -5,7 +5,7 @@ description: Hear from our members about anything and everything tech.
 image: assets/images/binary.jpg
 nav-menu: true
 ---
-<!--before the layout was "page" in case this is a bug/doesn't work-->
+
 <!-- Main -->
 <div id="main" class="alt">
 
