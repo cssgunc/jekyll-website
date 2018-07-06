@@ -51,7 +51,7 @@ nav-menu: true
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdug-fT_YsV0NUG7LPFBJXyzi9bFwYIDqiV1cjY-BaRZOjW3Q/viewform?usp=pp_url" class="button">Join our listserv</a></li>
 				</ul>
 			</div>
 		</div>
