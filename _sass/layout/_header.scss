@@ -6,10 +6,10 @@
 
 /* Header */
 
-	@include keyframes('reveal-header') {
-		0% { top: -4em; opacity: 0; }
-		100% { top: 0; opacity: 1; }
-	}
+	// @include keyframes('reveal-header') {
+	// 	0% { top: -4em; opacity: 0; }
+	// 	100% { top: 0; opacity: 1; }
+	// }
 
 	#header {
 		@include vendor('display', 'flex');
@@ -125,25 +125,25 @@
 			}
 		}
 
-		&.reveal {
-			@include vendor('animation', 'reveal-header 0.35s ease');
-		}
+		// &.reveal {
+		// 	@include vendor('animation', 'reveal-header 0.35s ease');
+		// }
 
-		&.alt {
-			@include vendor('transition', 'opacity #{_duration(banner)} ease');
-			@include vendor('transition-delay', '0.75s');
-			@include vendor('animation', 'none');
-			background-color: transparent;
-			box-shadow: none;
-			position: absolute;
+		// &.alt {
+		// 	@include vendor('transition', 'opacity #{_duration(banner)} ease');
+		// 	@include vendor('transition-delay', '0.75s');
+		// 	@include vendor('animation', 'none');
+		// 	background-color: transparent;
+		// 	box-shadow: none;
+		// 	position: absolute;
 
-			&.style1 { .logo { strong { color: _palette(accent1); } } }
-			&.style2 { .logo { strong { color: _palette(accent2); } } }
-			&.style3 { .logo { strong { color: _palette(accent3); } } }
-			&.style4 { .logo { strong { color: _palette(accent4); } } }
-			&.style5 { .logo { strong { color: _palette(accent5); } } }
-			&.style6 { .logo { strong { color: _palette(accent6); } } }
-		}
+		// 	&.style1 { .logo { strong { color: _palette(accent1); } } }
+		// 	&.style2 { .logo { strong { color: _palette(accent2); } } }
+		// 	&.style3 { .logo { strong { color: _palette(accent3); } } }
+		// 	&.style4 { .logo { strong { color: _palette(accent4); } } }
+		// 	&.style5 { .logo { strong { color: _palette(accent5); } } }
+		// 	&.style6 { .logo { strong { color: _palette(accent6); } } }
+		// }
 
 		body.is-loading & {
 			&.alt {
