@@ -3,7 +3,7 @@ layout: post
 title: Breaking Ground
 description: Although I am not the founder of CS+SG, as the current president, there is a lot of pressure of working on a new project.
 author: Cassidy Soutter
-image: assets/images/spaceX.png
+image: assets/images/spaceX.jpg
 #NOTE: replace rocketship pic with spacex pic and add a reference for pics so we don't claim them as our own & updates of blogs on home page**
 ---
 
