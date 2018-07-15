@@ -33,7 +33,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Find the need in your community.</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Within our community, we are the most aware of what our needs and problems are. We each have the power to make a difference, which starts with advocation for the problem. Once people are aware, we can create a creative solution to bridge the gap with what we need.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -49,7 +49,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Tell us how we can help.</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Be the advocate for your community. Tell others what is happening and share what is important to you. Unfortunately, many communities share similar problems. Together we are stronger.</p>
 				<ul class="actions">
 					<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdug-fT_YsV0NUG7LPFBJXyzi9bFwYIDqiV1cjY-BaRZOjW3Q/viewform?usp=pp_url" class="button">Join our listserv</a></li>
 				</ul>
@@ -65,9 +65,9 @@ nav-menu: true
 				<header class="major">
 					<h3>Get to work.</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Find a way to bridge the gaps and make a change. We are each capable of great things. What will you do with your abilities?</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<!--<li><a href="generic.html" class="button">Learn more</a></li>-->
 				</ul>
 			</div>
 		</div>

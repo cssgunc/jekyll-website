@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Resources
-description: Find more information about technology topics.
-image: assets/images/brain.jpg
+title: Archives
+description: Want to see what we've done? Click here for what we've been up to.
+image: assets/images/banner.jpg
 nav-menu: true
 ---
 
@@ -12,11 +12,74 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Archives</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
+<!--NOTE: Things on this page are: Media packet, pics from past events, our partner organizations and projects-->
+<h2 id="content">Our Events</h2>
+  <!--here will be pics and calednar of events-->
+
+<h2 id="content">Our Partners</h2>
+    <div class="table-wrapper">
+      <table class="alt">
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Date of Partnership</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+          <!--NOTE: here we will add all of our partners, each td should follow the info for the org, left to right-->
+            <td>Girls Who Code</td>
+            <td>Closing the gender gap in tech, one girl at a time.</td>
+            <td>July, 2018</td>
+          </tr>
+          <tr>
+            <td>Filler</td>
+            <td>filler</td>
+            <td>June, 2055</td>
+          </tr>
+          <tr>
+            <td>Item3</td>
+            <td> Morbi faucibus arcu accumsan lorem.</td>
+            <td>29.99</td>
+          </tr>
+          <tr>
+            <td>Item4</td>
+            <td>Vitae integer tempus condimentum.</td>
+            <td>19.99</td>
+          </tr>
+          <tr>
+            <td>Item5</td>
+            <td>Ante turpis integer aliquet porttitor.</td>
+            <td>29.99</td>
+          </tr>
+        </tbody>
+        <tfoot>
+          <tr>
+            <td colspan="2"></td>
+            <td>100.00</td>
+          </tr>
+        </tfoot>
+      </table>
+    </div>
+
+    </div>
+    <div class="6u$ 12u$(medium)">
+
+<h2 id="content">OUr Projects</h2>
+
+
+
+
+
+
+
+
+
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
@@ -45,7 +108,7 @@ nav-menu: true
 <hr class="major" />
 
 <!-- Elements -->
-<h2 id="elements">Blog</h2>
+<h2 id="elements">Webinars</h2>
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 
