@@ -58,12 +58,6 @@ nav-menu: true
             <td>29.99</td>
           </tr>
         </tbody>
-        <tfoot>
-          <tr>
-            <td colspan="2"></td>
-            <td>100.00</td>
-          </tr>
-        </tfoot>
       </table>
     </div>
 
