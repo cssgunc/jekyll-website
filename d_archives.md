@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Archives
+permalink: /archives
 description: Want to see what we've done? Click here for what we've been up to.
 image: assets/images/banner.jpg
 nav-menu: true

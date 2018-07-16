@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About us
+permalink: /about
 landing-title: About us
 nav-menu: true
 description: Meet our team!

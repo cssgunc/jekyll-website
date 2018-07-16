@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resources
+permalink: /resources
 description: Find more information about technology topics.
 image: assets/images/brain.jpg
 nav-menu: true
