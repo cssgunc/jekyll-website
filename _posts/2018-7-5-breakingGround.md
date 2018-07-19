@@ -3,7 +3,7 @@ layout: post
 title: Breaking Ground
 description: Although I am not the founder of CS+SG, as the current president, there is a lot of pressure of working on a new project.
 author: Cassidy Soutter
-image: assets/images/spaceX.jpg
+image: assets/images/spaceX.png
 ---
 
 The hardest part of anything is the beginning. Computer Science + Social Good started in the academic year of 2017-2018. We started as a small group of computer science students who wanted to use the things we were learning in class to make real solutions to improve the state of our society. Similar to a start up, one of the hardest part of journey so far as an organization has been convincing people that we can create change and that what we're doing matters. Whether it's recruiting members who care about social good, getting people to come to meetings or trying to find feasible projects, the success of our organization lies in the hands of the same people we are trying to help: our community.
