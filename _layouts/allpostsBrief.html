@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+{% include head.html %}
+
+<body>
+
+    {% include header.html %}
+
+
+<!-- Main -->
+<div id="main" class="alt">
+	<div style="text-align: center;">
+		<h1>{{ page.content }}</h1>
+	</div>
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		{% for post in site.posts %}
+			<header class="major">
+				<h1><a href={{post.url | absolute_url}}>{{ post.title }}</a></h1>
+				<h3>{{ post.author }}</h1>
+			</header>
+			{% if post.date %}
+				<p><b>Published on {{ post.date | date_to_string }}</b></p>
+			{% endif %}
+			<p>
+				<i>{{ post.description }}</i>
+			</p>
+			<p>
+				<a href={{post.url | absolute_url}}>Read more</a>
+			</p>
+		{% endfor %}
+	</div>
+</section>
+
+</div>
+
+    {% include footer.html %}
+
+</body>
+
+</html>
