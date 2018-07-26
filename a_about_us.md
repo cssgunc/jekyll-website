@@ -33,7 +33,7 @@ author: null
 				<h2>Fall 2018 Executive Members</h2>
 			</header>
 			<section id="two" class="spotlights">
-				<section><span class="image left"><img src="assets/images/memberPictures/CassidySoutter.JPG" alt="" /></span>
+				<section><!--<span class="image left"><img src="assets/images/memberPictures/CassidySoutter.JPG" alt="" /></span>-->
 				<a href="generic.html" class="image">
 					<img src="assets/images/memberPictures/CassidySoutter.JPG" alt="" data-position="center center" />
 				</a>
