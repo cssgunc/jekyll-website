@@ -104,10 +104,10 @@
 			}
 		}
 
-		&.style1 { &:after { background-color: _palette(accent1); } }
-		&.style2 { &:after { background-color: _palette(accent2); } }
-		&.style3 { &:after { background-color: _palette(accent3); } }
-		&.style4 { &:after { background-color: _palette(accent4); } }
+		&.style1 { &:after { background-color: _palette(accent1); opacity: 0.5;} }
+		&.style2 { &:after { background-color: _palette(accent2); opacity: 0.5;} }
+		&.style3 { &:after { background-color: _palette(accent3); opacity: 0.5;} }
+		&.style4 { &:after { background-color: _palette(accent4); opacity: 0.5;} }
 		&.style5 { &:after { background-color: _palette(accent5); } }
 		&.style6 { &:after { background-color: _palette(accent6); } }
 
