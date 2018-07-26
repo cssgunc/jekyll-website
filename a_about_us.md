@@ -39,9 +39,10 @@ author: null
 			<header class="major">
 				<h2>Fall 2018 Executive Members</h2>
 			</header>
-			<h4>Left &amp; Right</h4>
-			<p><span class="image left"><img src="assets/images/banner.jpg" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-			<p><span class="image right"><img src="assets/images/banner.jpg" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
+			<p><span class="image left"><img src="assets/images/memberPictures/CassidySoutter.JPG" alt="" /></span>stuff about cassidy</p>
+			<p><span class="image right"><img src="assets/images/memberPictures/IzziHinks.jpg" alt="" /></span>stuff about izzi</p>
+			<p><span class="image left"><img src="assets/images/memberPictures/AustinWang.jpg" alt="" /></span>stuff about austin</p>
+			<p><span class="image right"><img src="assets/images/memberPictures/TimothyLo.JPG" alt="" /></span>stuff about timothy</p>
 		</div>
 	</section>
 	<section id="Member">
