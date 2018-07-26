@@ -13,6 +13,9 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
+		<span class="image">
+				<img src="assets/images/apply.jpg" alt="apply.jpg">
+		</span>
 		<header class="major">
 			<h2>Apply to be a member!</h2>
 		</header>

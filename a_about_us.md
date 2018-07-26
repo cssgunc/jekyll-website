@@ -5,18 +5,44 @@ permalink: /about
 landing-title: About us
 nav-menu: true
 description: Meet our team!
-image: assets/images/oldWell.jpg
+image: assets/images/NCLandscape.jpg
 author: null
 ---
 
 <div id="main" class="alt">
 
 <!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>Elements</h1>
-		</header>
+	<section id="one">
+		<div class="inner">
+			<header class="major">
+				<h1>About Us</h1>
+			</header>
+		<div id="main">
+			<ul class="actions">
+				<li><a href="#mission" class="button">Our Mission</a></li>
+				<li><a href="#Exec" class="button">Executive Board</a></li>
+				<li><a href="#Member" class="button">Member Highlights</a></li>
+			</ul>
+		</div>
+		</div>
+	</section>
+
+	<section id="Mission">
+				<div class="inner">
+					<header class="major">
+						<h2>Our mission: </h2>
+					</header>
+					<p>{{ content }}</p>
+				</div>
+	</section>
+	<section id="Exec">
+		<p>test</p>
+	</section>
+	<section id="Member">
+		<p>test2</p>
+	</section>
+</div>
+
 
 <!-- Content -->
 <h2 id="content">Sample Content</h2>
