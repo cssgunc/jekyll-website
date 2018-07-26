@@ -12,20 +12,13 @@ author: null
 <div id="main" class="alt">
 
 <!-- One -->
-	<section id="one">
+	<!--<section id="one">
 		<div class="inner">
 			<!--<header class="major">
 				<h1>About Us</h1>
-			</header>-->
-		<div id="main">
-			<ul class="actions">
-				<li><a href="#Mission" class="button fit">Our Mission</a></li>
-				<li><a href="#Exec" class="button fit">Executive Board</a></li>
-				<li><a href="#Member" class="button fit">Member Highlights</a></li>
-			</ul>
+			</header>
 		</div>
-		</div>
-	</section>
+	</section>-->
 
 	<section id="Mission">
 				<div class="inner">

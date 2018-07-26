@@ -47,7 +47,7 @@ nav-menu: true
 	<!---->
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/lightbulb.jpg" alt="" data-position="center center" />
+			<img src="assets/images/needInTheCommunity.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -63,7 +63,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/banner.jpg" alt="" data-position="top center" />
+			<img src="assets/images/tellUsHowWeCanHelp.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -79,7 +79,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/banner.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/getToWork.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
