@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Home
+permalink: /website
 landing-title: 'Computer Science + Social Good'
 description: null
 image: assets/images/banner.jpg

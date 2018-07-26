@@ -4,7 +4,7 @@ subtitle: at UNC Chapel Hill
 email: cssgunc@gmail.com
 #description: Fostering discussions and actions for ethical uses of technology, with an aim to give back to UNC and the greater community through our projects and collaborations.
 description: Through technology, we have the opportunity to be a part of positive change and evolution of a growing world of possibility. We aim to give nonprofits and organizations for social good in the Chapel Hill area the tools to effectively complete their goals with the use of knowledge and programs.
-baseurl: "/jekyll-website" # the subpath of your site, e.g. /blog
+baseurl: "/website" # the subpath of your site, e.g. /blog
 url: https://unc-cs-sg.github.io # the base hostname & protocol for your site
 author:
 street_address: 201 S. Columbia Street
