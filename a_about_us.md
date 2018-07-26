@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: aboutUsLayout
 title: About us
 permalink: /about
 landing-title: About us
@@ -14,9 +14,9 @@ author: null
 <!-- One -->
 	<section id="one">
 		<div class="inner">
-			<header class="major">
+			<!--<header class="major">
 				<h1>About Us</h1>
-			</header>
+			</header>-->
 		<div id="main">
 			<ul class="actions">
 				<li><a href="#Mission" class="button">Our Mission</a></li>
