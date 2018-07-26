@@ -36,12 +36,19 @@ author: null
 				</div>
 	</section>
 	<section id="Exec">
-		<p>test</p>
+		<div class="inner">
+			<header class="major">
+				<p>test</p>
+			</header>
+		</div>
 	</section>
 	<section id="Member">
-		<p>test2</p>
+		<div class="inner">
+			<header class="major">
+				<p>test2</p>
+			</header>
+		</div>
 	</section>
-</div>
 
 
 <!-- Content -->
