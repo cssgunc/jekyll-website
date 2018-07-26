@@ -3,7 +3,7 @@ layout: landing
 title: Call to Action
 permalink: /apply
 description: There is so much to be done. Here's what we want from you.
-image: assets/images/franklinStreet.jpg
+image: assets/images/callToAction.jpg
 nav-menu: true
 ---
 
