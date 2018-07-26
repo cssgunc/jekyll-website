@@ -2,7 +2,7 @@
 layout: post
 title: Breaking Ground
 author: Cassidy Soutter
-description: Our first blog post.
+description: Welcome to Computer Science + Social Good. Let's get started.
 image: assets/images/spaceX.jpg
 ---
 

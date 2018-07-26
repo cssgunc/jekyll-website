@@ -13,9 +13,9 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<span class="image">
-				<img src="assets/images/apply.jpg" alt="apply.jpg">
-		</span>
+		<a href="generic.html" class="image">
+			<img src="assets/images/apply.jpg" alt="" data-position="25% 25%" />
+		</a>
 		<header class="major">
 			<h2>Apply to be a member!</h2>
 		</header>
@@ -30,8 +30,8 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/banner.jpg" alt="" data-position="center center" />
-		</a>s
+			<img src="assets/images/lightbulb.jpg" alt="" data-position="center center" />
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
