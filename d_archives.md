@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archivesLayout
 title: Archives
 permalink: /archives
 description: Want to see what we've done? Click here for what we've been up to.

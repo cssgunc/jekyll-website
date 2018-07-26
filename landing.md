@@ -11,7 +11,7 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
-<section id="one">
+<!--<section id="one">
 	<div class="inner">
 		<a href="generic.html" class="image">
 			<img src="assets/images/apply.jpg" alt="" data-position="25% 25%" />
@@ -24,10 +24,27 @@ nav-menu: true
 			<li><a href="https://docs.google.com/forms/d/15Akd1tY8OvEyc3APeauhZ_PSiDgBI3FQxdqc5RiH7u0/" class="button special big">Apply now</a></li>
 		</ul>
 	</div>
-</section>
+</section>-->
 
 <!-- Two -->
 <section id="two" class="spotlights">
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/apply.jpg" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Apply to be a member!</h3>
+				</header>
+				<p>Are you interested in using technology to create social good? We are an organization for all students at UNC, both undergraduate and graduate students. We are looking for people who are eager to make a difference in their community and are ready to devote time to a cause that matters to them.</p>
+				<ul class="actions">
+					<li><a href="https://docs.google.com/forms/d/15Akd1tY8OvEyc3APeauhZ_PSiDgBI3FQxdqc5RiH7u0/" class="button special big">Apply now</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<!---->
 	<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/lightbulb.jpg" alt="" data-position="center center" />

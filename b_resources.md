@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: resourcesLayout
 title: Resources
 permalink: /resources
 description: Find more information about technology topics.
