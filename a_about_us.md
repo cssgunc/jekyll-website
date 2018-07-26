@@ -4,7 +4,7 @@ title: About us
 permalink: /about
 landing-title: About us
 nav-menu: true
-description: Meet our team!
+description: Meet our team and see what we stand for!
 image: assets/images/NCLandscape.jpg
 author: null
 ---
