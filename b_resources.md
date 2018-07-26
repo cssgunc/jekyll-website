@@ -12,9 +12,6 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h1>Resources</h1>
-		</header>
 
 <!-- Content -->
 <!--NOTE: Things in this page: our presentations, webinars and links to other online resources-->

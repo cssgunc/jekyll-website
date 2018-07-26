@@ -2,7 +2,7 @@
 layout: archivesLayout
 title: Archives
 permalink: /archives
-description: Want to see what we've done? Click here for what we've been up to.
+description: Want to see what we've done? Here's what we've been up to.
 image: assets/images/archives.jpg
 nav-menu: true
 ---
@@ -12,9 +12,6 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h1>Archives</h1>
-		</header>
 
 <!-- Content -->
 <!--NOTE: Things on this page are: Media packet, pics from past events, our partner organizations and projects-->
