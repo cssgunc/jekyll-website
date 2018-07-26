@@ -19,7 +19,7 @@ author: null
 			</header>
 		<div id="main">
 			<ul class="actions">
-				<li><a href="#mission" class="button">Our Mission</a></li>
+				<li><a href="#Mission" class="button">Our Mission</a></li>
 				<li><a href="#Exec" class="button">Executive Board</a></li>
 				<li><a href="#Member" class="button">Member Highlights</a></li>
 			</ul>
@@ -32,20 +32,19 @@ author: null
 					<header class="major">
 						<h2>Our mission: </h2>
 					</header>
-					<p>{{ content }}</p>
 				</div>
 	</section>
 	<section id="Exec">
 		<div class="inner">
 			<header class="major">
-				<p>test</p>
+				<h2>test</h2>
 			</header>
 		</div>
 	</section>
 	<section id="Member">
 		<div class="inner">
 			<header class="major">
-				<p>test2</p>
+				<h2>test2</h2>
 			</header>
 		</div>
 	</section>
