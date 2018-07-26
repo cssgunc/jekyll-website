@@ -19,9 +19,9 @@ author: null
 			</header>-->
 		<div id="main">
 			<ul class="actions">
-				<li><a href="#Mission" class="button">Our Mission</a></li>
-				<li><a href="#Exec" class="button">Executive Board</a></li>
-				<li><a href="#Member" class="button">Member Highlights</a></li>
+				<li><a href="#Mission" class="button fit">Our Mission</a></li>
+				<li><a href="#Exec" class="button fit">Executive Board</a></li>
+				<li><a href="#Member" class="button fit">Member Highlights</a></li>
 			</ul>
 		</div>
 		</div>
