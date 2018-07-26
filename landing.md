@@ -11,7 +11,6 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
-<section id="banner" class="style2">
 <section id="one">
 	<div class="inner">
 		<span class="image">
@@ -77,6 +76,5 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-</section>
 </section>
 </div>
