@@ -54,6 +54,22 @@ author: null
 			<header class="major">
 				<h2>test2</h2>
 			</header>
+			<span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span>
+			<div class="box alt">
+				<div class="row 50% uniform">
+					<div class="4u"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
+					<div class="4u"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
+					<div class="4u$"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
+					<!-- Break -->
+					<div class="4u"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
+					<div class="4u"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
+					<div class="4u$"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
+					<!-- Break -->
+					<div class="4u"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
+					<div class="4u"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
+					<div class="4u$"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
+				</div>
+			</div>
 		</div>
 	</section>
 
