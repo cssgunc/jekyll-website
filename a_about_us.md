@@ -35,33 +35,11 @@ author: null
 		</div>
 	</section>
 	<section id="two" class="spotlights">
-	<!--this is a test-->
-		<section>
-			<a href="generic.html" class="image">
-				<img src="assets/images/apply.jpg" alt="" data-position="center center" />
-			</a>
-			<div class="content">
-				<div class="inner">
-					<header class="major">
-						<h3>Apply to be a member!</h3>
-					</header>
-					<p>Are you interested in using technology to create social good? We are an organization for all students at UNC, both undergraduate and graduate students. We are looking for people who are eager to make a difference in their community and are ready to devote time to a cause that matters to them.</p>
-					<ul class="actions">
-						<li><a href="https://docs.google.com/forms/d/15Akd1tY8OvEyc3APeauhZ_PSiDgBI3FQxdqc5RiH7u0/" class="button special big">Apply now</a></li>
-					</ul>
-				</div>
-			</div>
-		</section>
-	<!---->
 				<section><!--<span class="image left"><img src="assets/images/memberPictures/CassidySoutter.JPG" alt="" /></span>-->
 					<a href="generic.html" class="image">
 						<img src="assets/images/memberPictures/CassidySoutter.JPG" alt="" data-position="center center" />
 					</a>
-					<div class="content">
-						<div class="inner">
 							<p>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-						</div>
-					</div>
 				</section>
 
 				<section><p><span class="image right"><img src="assets/images/memberPictures/IzziHinks.jpg" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p></section>
