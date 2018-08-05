@@ -23,7 +23,8 @@ author: null
 	<section id="Mission">
 		<div class="inner">
 			<header class="major">
-				<h2>Our mission: </h2>				
+				<h2>Our mission: </h2>
+				<h3>Our purpose is to foster discussions about how technology can be utilized to create a better world. In addition, we will work to advance the national organization’s mission: to empower a new generation of leaders working at the intersection of technology and social impact.</h3>			
 			</header>
 		</div>
 	</section>
@@ -35,7 +36,7 @@ author: null
 		</div>
 	</section>
 	<section id="two" class="spotlights">
-				<section><p><span class="image left"><img src="assets/images/memberPictures/CassidySoutter.JPG" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p></section>
+				<section><span class="image left"><img src="assets/images/memberPictures/CassidySoutter.JPG" alt="" /></span><p>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p></section>
 
 				<section><p><span class="image right"><img src="assets/images/memberPictures/IzziHinks.jpg" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p></section>
 
@@ -46,7 +47,7 @@ author: null
 	<section id="Member">
 		<div class="inner">
 			<header class="major">
-				<h2>test2</h2>
+				<h2>Our Members</h2>
 			</header>
 			<span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span>
 			<div class="box alt">
