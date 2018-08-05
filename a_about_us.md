@@ -38,12 +38,7 @@ author: null
 	</section>
 	<section id="two" class="spotlights">
 				<section>
-					<section><span class="image right"><img src="assets/images/memberPictures/IzziHinks.jpg" alt="" /></span>
-					<header class="major">
-						<h3>Cassidy Soutter, Co-President</h3>
-						<h5>Computer Science BS, Information Systems minor, Spanish for Business minor</h5>
-						<h6>Junior, May, 2020
-					</header><p>
+					<section><p><span class="image right"><img src="assets/images/memberPictures/CassidySoutter.JPG" alt="" /></span>
 					Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p></section>
 				</section>
 
