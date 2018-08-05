@@ -20,24 +20,26 @@ author: null
 		</div>
 	</section>-->
 
-	<!--<section id="Mission">-->
+	<section id="Mission">
 		<div class="inner">
 			<header class="major">
 				<h2 id="Mission">Our mission: </h2>
 				<p>Our purpose is to foster discussions about how technology can be utilized to create a better world. In addition, we will work to advance the national organization’s mission: to empower a new generation of leaders working at the intersection of technology and social impact.</p>			
 			</header>
 		</div>
-	<!--</section>-->
-	<hr class="major" />
+	</section>
+	<!--<hr class="major" />-->
 	<section id="Exec">
 		<div class="inner">
 			<header class="major">
-				<h2>Fall 2018 Executive Members</h2>
+				<h2>Executive Members</h2>
 			</header>
 		</div>
 	</section>
 	<section id="two" class="spotlights">
-				<section><p><span class="image left"><img src="assets/images/memberPictures/CassidySoutter.JPG" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p></section>
+				<section><p><span class="image left"><img src="assets/images/memberPictures/CassidySoutter.JPG" alt="" /></span>
+				Cassidy Soutter, Co-President</p><p><h4>Majors and Minors</h4> BS Computer Science, Information Systems minor, Spanish for the Professions minor</p>
+				</section>
 
 				<section><p><span class="image right"><img src="assets/images/memberPictures/IzziHinks.jpg" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p></section>
 
