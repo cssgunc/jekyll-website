@@ -38,18 +38,16 @@ author: null
 	</section>
 	<section id="two" class="spotlights">
 				<section>
-				<div class="content">
 					<div class="inner">
 						<header class="major">
 							<h3>Cassidy Soutter, Co-President</h3>
 							<h5>Computer Science BS, Information Systems minor, Spanish for Business minor</h5>
-							<h6>Junior, May, 2020<h6>
+							<h6>Junior, May, 2020
 						</header>
 						<p>Are you interested in using technology to create social good? We are an organization for all students at UNC, both undergraduate and graduate students. We are looking for people who are eager to make a difference in their community and are ready to devote time to a cause that matters to them.</p>
 						<ul class="actions">
 							<li><a href="https://docs.google.com/forms/d/15Akd1tY8OvEyc3APeauhZ_PSiDgBI3FQxdqc5RiH7u0/" class="button special big">Apply now</a></li>
 						</ul>
-					</div>
 				</div>
 				</section>
 
