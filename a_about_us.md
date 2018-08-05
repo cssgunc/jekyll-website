@@ -38,7 +38,9 @@ author: null
 	</section>
 	<section id="two" class="spotlights">
 				<section>
+				<div class="content">
 					<div class="inner">
+					<p><span class="image right"><img src="assets/images/memberPictures/CassidySoutter.jpg" alt="" /></span>
 						<header class="major">
 							<h3>Cassidy Soutter, Co-President</h3>
 							<h5>Computer Science BS, Information Systems minor, Spanish for Business minor</h5>
@@ -48,6 +50,8 @@ author: null
 						<ul class="actions">
 							<li><a href="https://docs.google.com/forms/d/15Akd1tY8OvEyc3APeauhZ_PSiDgBI3FQxdqc5RiH7u0/" class="button special big">Apply now</a></li>
 						</ul>
+						</p>
+					</div>
 				</div>
 				</section>
 
