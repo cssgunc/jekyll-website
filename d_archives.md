@@ -17,6 +17,7 @@ nav-menu: true
 <!--NOTE: Things on this page are: Media packet, pics from past events, our partner organizations and projects-->
 <h2 id="content">Our Events</h2>
   <!--here will be pics and calednar of events-->
+  <p>We have a lot planned for you! Come back later or follow us on <a href="https://www.facebook.com/cssguncch/">Facebook</a> to keep up to date!</p>
 
 <h2 id="content">Our Partners</h2>
     <div class="table-wrapper">
@@ -62,9 +63,7 @@ nav-menu: true
     </div>
     <div class="6u$ 12u$(medium)">
 
-<h2 id="content">OUr Projects</h2>
-
-
+<h2 id="content">Our
 
 
 
