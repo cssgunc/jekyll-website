@@ -37,10 +37,17 @@ author: null
 		</div>
 	</section>
 	<section id="two" class="spotlights">
-		<div class="row inner">
+
+<!-- Cassidy -->
+		<div class="row inner name-row">
 			<div class="12u">
-				<h2>Cassidy Soutter</h2>
+				<h2 class="member-name">Cassidy Soutter</h2>
 			</div>
+		</div>
+		<div class="row inner titles-row">
+			<p><span class='position'>President</span>,
+				<span class='grad-date'>May 2020</span>,
+				B.S. in Computer Science, Minor in Information Systems, Minor in Spanish for the Professions</p>
 		</div>
 		<div class="row inner">
 			<div class="8u 12u$(small)">
@@ -54,10 +61,16 @@ author: null
 			</div>
 		</div>
 
-		<div class="row inner">
+<!-- Izzi -->
+		<div class="row inner name-row">
 			<div class="12u">
-				<h2>Isabella (Izzi) Hinks</h2>
+				<h2 class="member-name">Isabella (Izzi) Hinks</h2>
 			</div>
+		</div>
+		<div class="row inner titles-row">
+			<p><span class='position'>Project Coordinator</span>,
+				<span class='grad-date'>May 2020</span>,
+				B.S. in Computer Science, B.S. in Environmental Science, Minor in Mathematical Decision Sciences</p>
 		</div>
 		<div class="row inner">
 			<div class="4u 12u$(small)">
@@ -71,10 +84,16 @@ author: null
 			</div>
 		</div>
 
-		<div class="row inner">
+<!-- Austin -->
+		<div class="row inner name-row">
 			<div class="12u">
-				<h2>Austin Wang</h2>
+				<h2 class="member-name">Austin Wang</h2>
 			</div>
+		</div>
+		<div class="row inner titles-row">
+			<p><span class='position'>Graphics & Technology Chair</span>,
+				<span class='grad-date'>May 2020</span>,
+				B.S. in Computer Science, B.S. in Mathematics</p>
 		</div>
 		<div class="row inner">
 			<div class="8u 12u$(small)">
@@ -88,10 +107,16 @@ author: null
 			</div>
 		</div>
 
-		<div class="row inner">
+<!-- Timothy -->
+		<div class="row inner name-row">
 			<div class="12u">
-				<h2>Timothy Lo</h2>
+				<h2 class="member-name">Timothy Lo</h2>
 			</div>
+		</div>
+		<div class="row inner titles-row">
+			<p><span class='position'>Treasurer</span>,
+				<span class='grad-date'>May 2021</span>,
+				B.S. in Business Administration</p>
 		</div>
 		<div class="row inner">
 			<div class="4u 12u$(small)">
@@ -100,6 +125,29 @@ author: null
 			<div class="8u 12u$(small)">
 				<h4>Why are you passionate about CS+SG?</h4>
 				<p>I’ve always been interested in technology and the various ways it can be utilized. CS+SG offers opportunities that give back to the community while also allowing its members to learn about the growing usages of technology.</p>
+			</div>
+		</div>
+
+<!-- Visrut -->
+		<div class="row inner name-row">
+			<div class="12u">
+				<h2 class="member-name">Visrut Sudhakar</h2>
+			</div>
+		</div>
+		<div class="row inner titles-row">
+			<p><span class='position'>President (on leave)</span>,
+				<span class='grad-date'>December 2019</span>,
+				B.S. in Computer Science, B.S. in Mathematics</p>
+		</div>
+		<div class="row inner">
+			<div class="8u 12u$(small)">
+				<h4>Why are you passionate about CS+SG?</h4>
+				<p>Self-proclaimed technologists and "startup heros" often proclaim their passion as inventing technologies to "change the world for the better". However, I firmly believe that a more useful strategy is to help existing organizations learn about and utilize freely-available technology in a manner which helps them achieve their ongoing missions. I also believe that through CS+Social Good we can help people understand how to take control of the digital tools in their lives, and in doing so move towards a world in which our devices respect our privacy, freedoms, and help us to achieve our goals.</p>
+				<h4>Fun facts about me!</h4>
+				<p>I play the drums!</p>
+			</div>
+			<div class="4u 12u$(small)">
+				<img src="assets/images/memberPictures/VisrutSudhakar.JPG" alt="" />
 			</div>
 		</div>
 	</section>

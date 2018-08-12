@@ -2,6 +2,23 @@
     padding-top: 0 !important;
 }
 
-#two div div h2 {
+.member-name {
     border-bottom: 1px solid white;
+    margin-bottom: 0;
+}
+
+.name-row {
+    padding-bottom: 0 !important;
+}
+
+.titles-row {
+    padding-bottom: 0 !important;
+}
+
+.position {
+    font-weight: bold;
+}
+
+.grad-date {
+    font-style: italic;
 }
