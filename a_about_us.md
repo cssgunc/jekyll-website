@@ -37,16 +37,71 @@ author: null
 		</div>
 	</section>
 	<section id="two" class="spotlights">
-				<section>
-					<section><p><span class="image right"><img src="assets/images/memberPictures/CassidySoutter.JPG" alt="" /></span>
-					Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p></section>
-				</section>
+		<div class="row inner">
+			<div class="12u">
+				<h2>Cassidy Soutter</h2>
+			</div>
+		</div>
+		<div class="row inner">
+			<div class="8u 12u$(small)">
+				<h4>Why are you passionate about CS+SG?</h4>
+				<p>Technology is one of the most powerful tools that we have widespread access to as a society. As we continue to develop its possibilities, it is important that we understand the repercussions of our actions and find a way to use tech to help create social good. I hope that CS+SG will be a start for us, as a community, to make a positive impact on the people around us and help to develop a healthier relationship with the way we use computer science for good.</p>
+				<h4>Fun facts about me!</h4>
+				<p>In my spare time, I like to listen to jazz, bake, knit and watch the Office.</p>
+			</div>
+			<div class="4u 12u$(small)">
+				<img src="assets/images/memberPictures/CassidySoutter.JPG" alt="" />
+			</div>
+		</div>
 
-				<section><p><span class="image right"><img src="assets/images/memberPictures/IzziHinks.jpg" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p></section>
+		<div class="row inner">
+			<div class="12u">
+				<h2>Isabella (Izzi) Hinks</h2>
+			</div>
+		</div>
+		<div class="row inner">
+			<div class="4u 12u$(small)">
+				<img src="assets/images/memberPictures/IzziHinks.jpg" alt="" />
+			</div>
+			<div class="8u 12u$(small)">
+				<h4>Why are you passionate about CS+SG?</h4>
+				<p>With great power comes great responsibility. My favorite part about computer science is that any individual, from any background, can use it as a tool for good. I'm passionate about CS+SG because it empowers students from all walks of life to collaborate and use our growing skills to help our community.</p>
+				<h4>Fun facts about me!</h4>
+				<p>I'm a certified yoga teacher, and I'm passionate about teaching communities who may benefit from it most -- at-risk youth, cancer patients and survivors, and veterans with combat stress and PTSD. </p>
+			</div>
+		</div>
 
-				<section><p><span class="image left"><img src="assets/images/memberPictures/AustinWang.jpg" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p></section>
+		<div class="row inner">
+			<div class="12u">
+				<h2>Austin Wang</h2>
+			</div>
+		</div>
+		<div class="row inner">
+			<div class="8u 12u$(small)">
+				<h4>Why are you passionate about CS+SG?</h4>
+				<p>I think there are a lot of worthy causes that need just a little technological guidance. Even as students, we can do small & simple things to lend a hand. I think CS+SG is a great way to open up more diverse opportunities for CS majors. CS+SG can help students who aren't interested in tech/finance/academia discover new career paths.</p>
+				<h4>Fun facts about me!</h4>
+				<p>I hang out in the Hackerspace (SN0027) a lot during the school year. Feel free to drop by! My favorite season is winter. I tell myself I don't have a favorite color, but I think it's either orange or blue.</p>
+			</div>
+			<div class="4u 12u$(small)">
+				<img src="assets/images/memberPictures/AustinWang.jpg" alt="" />
+			</div>
+		</div>
 
-				<section><p><span class="image right"><img src="assets/images/memberPictures/TimothyLo.JPG" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p></section>
+		<div class="row inner">
+			<div class="12u">
+				<h2>Timothy Lo</h2>
+			</div>
+		</div>
+		<div class="row inner">
+			<div class="4u 12u$(small)">
+				<img src="assets/images/memberPictures/TimothyLo.JPG" alt="" />
+			</div>
+			<div class="8u 12u$(small)">
+				<h4>Why are you passionate about CS+SG?</h4>
+				<p>I’ve always been interested in technology and the various ways it can be utilized. CS+SG offers opportunities that give back to the community while also allowing its members to learn about the growing usages of technology.</p>
+			</div>
+		</div>
 	</section>
 	<section id="Member">
 		<div class="inner">

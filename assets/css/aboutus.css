@@ -1,0 +1,7 @@
+#two div {
+    padding-top: 0 !important;
+}
+
+#two div div h2 {
+    border-bottom: 1px solid white;
+}
