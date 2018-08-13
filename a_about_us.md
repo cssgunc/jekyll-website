@@ -37,105 +37,6 @@ author: null
 		</div>
 	</section>
 
-<!-- 	<section id="two" class="spotlights profiles">
-				<section class="profile-box">
-					<div class="profile-img">
-						<img src="{{ "assets/images/memberPictures/CassidySoutter.JPG" | relative_url }}" alt="Cassidy Souter" />
-						<div class="profile-img-container">
-							<p>Cassidy Soutter</p>
-						</div>
-					</div>
-					<div class="profile-description">
-						<h1>Cassidy Soutter</h1>
-						<h2>Title</h2>
-						<p>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-					</div>
-				</section>
-
-				<section class="profile-box">
-					<div class="profile-img">
-						<img src="{{ "assets/images/dog_in_shirt.jpg" | relative_url }}" alt="Image of a cute dog in a shirt" />
-						<div class="profile-img-container">
-							<p>Visrut Sudhakar</p>
-						</div>
-					</div>
-					<div class="profile-description">
-						<h1>Visrut Sudhakar</h1>
-						<h2>Title</h2>
-						<p>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-					</div>
-				</section>
-
-				<section class="profile-box">
-					<div class="profile-img">
-						<img src="{{ "assets/images/dog_in_shirt.jpg" | relative_url }}" alt="Izzi Hinks" />
-						<div class="profile-img-container">
-							<p>Izzi Hinks</p>
-						</div>
-					</div>
-					<div class="profile-description">
-						<h1>Izzi Hinks</h1>
-						<h2>Title</h2>
-						<p>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-					</div>
-				</section>
-
-				<section class="profile-box">
-					<div class="profile-img">
-						<img src="{{ "assets/images/dog_in_shirt.jpg" | relative_url }}" alt="Timothy Lo" />
-						<div class="profile-img-container">
-							<p>Timothy Lo</p>
-						</div>
-					</div>
-					<div class="profile-description">
-						<h1>Timothy Lo</h1>
-						<h2>Title</h2>
-						<p>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-					</div>
-				</section>
-
-				<section class="profile-box">
-					<div class="profile-img">
-						<img src="{{ "assets/images/dog_in_shirt.jpg" | relative_url }}" alt="Grant Miller" />
-						<div class="profile-img-container">
-							<p>Grant Miller</p>
-						</div>
-					</div>
-					<div class="profile-description">
-						<h1>Grant Miller</h1>
-						<h2>Title</h2>
-						<p>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-					</div>
-				</section>
-
-				<section class="profile-box">
-					<div class="profile-img">
-						<img src="{{ "assets/images/dog_in_shirt.jpg" | relative_url }}" alt="Austin Wang" />
-						<div class="profile-img-container">
-							<p>Austin Wang</p>
-						</div>
-					</div>
-					<div class="profile-description">
-						<h1>Austin Wang</h1>
-						<h2>Title</h2>
-						<p>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-					</div>
-				</section>
-
-				<section class="profile-box">
-					<div class="profile-img">
-						<img src="{{ "assets/images/dog_in_shirt.jpg" | relative_url }}" alt="Armaan Sethi" />
-						<div class="profile-img-container">
-							<p>Armaan Sethi</p>
-						</div>
-					</div>
-					<div class="profile-description">
-						<h1>Armaan Sethi</h1>
-						<h2>Title</h2>
-						<p>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-					</div>
-				</section>
- -->
 	<section id="two" class="spotlights profiles">
 		<!-- Cassidy -->
 		<section class="profile-box">
@@ -163,7 +64,7 @@ author: null
 		<!-- Visrut -->
 		<section class="profile-box">
 			<div class="profile-img">
-				<img src="{{ "assets/images/memberPictures/VisrutSudhakar.JPG" | relative_url }}" alt="Visrut Sudhakar" />
+				<img src="{{ "assets/images/memberPictures/VisrutSudhakar.jpg" | relative_url }}" alt="Visrut Sudhakar" />
 				<div class="profile-img-container">
 					<p>Visrut Sudhakar</p>
 				</div>
