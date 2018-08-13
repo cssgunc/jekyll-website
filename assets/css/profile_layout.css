@@ -1,0 +1,35 @@
+.profiles {
+	padding-left: 10%;
+	padding-right: 10%;
+	margin: 15px 0px 15px 0px;
+}
+
+.profile-box {
+	margin: 15px 0px 15px 0px;
+}
+
+div.profile-img {
+	margin: 10px 10px 10px;
+	width: 80%;
+	background-color: #242943;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	border-radius: 8px;
+}
+
+div img {
+	width: 100%;
+	border-radius: 4px;
+}
+
+div.profile-img-container {
+	text-align: center;
+	padding: 10px 20px;
+}
+
+div.profile-description {
+	padding: 15px 15px 15px 15px;
+}
+
+div.profile-description h1 {
+	margin: 0 0 0 0;
+}
