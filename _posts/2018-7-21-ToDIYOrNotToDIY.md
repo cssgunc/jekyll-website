@@ -13,4 +13,4 @@ For community oriented, non-profit organizations, technology projects can often 
 
 ## Upgrading from "Free" to Professional Grade Products
 
-One of the most common situations organizations find themselves in, especially as they become more established, is the inevitable upgrade from a free `@gmail.com` style account to a more professional `@yourdomain.tld` setup with individual accounts for employees.
+One of the most common situations organizations find themselves in, especially as they become more established, is the inevitable upgrade from a free `@gmail.com` style account to a more professional `@yourdomain.tld` setup with individual accounts for employees. 

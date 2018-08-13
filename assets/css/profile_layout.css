@@ -1,3 +1,7 @@
+.profile-header {
+	height: 150px;
+}
+
 .profiles {
 	padding-left: 10%;
 	padding-right: 10%;
@@ -6,14 +10,33 @@
 
 .profile-box {
 	margin: 15px 0px 15px 0px;
+	align-items: center;
 }
 
 div.profile-img {
 	margin: 10px 10px 10px;
-	width: 80%;
 	background-color: #242943;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 	border-radius: 8px;
+	width: 150%;
+	max-width: 275px;
+	height: 100%;
+}
+
+@keyframes dropShadow {
+	0% { 
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	}
+
+	100% {
+		box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2), 0 8px 22px 0 rgba(0, 0, 0, 0.19);
+	}
+}
+
+div.profile-img:hover {
+	animation-name: dropShadow;
+	animation-duration: 700ms;
+	box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2), 0 8px 22px 0 rgba(0, 0, 0, 0.19);
 }
 
 div img {
