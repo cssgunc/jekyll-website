@@ -87,7 +87,8 @@ h3>Cybersecurity</h3>
 				<a class="anchor" id="ux"></a><h3>Understanding UX/UI</h3>
 				<ul>
 					<li><a href="http://magazine.mosa.com/en-us/colorful-mosa-1">How We Perceive Color</a></li>
-					<li><a href="https://dynomapper.com/blog/19-ux/464-usability-guidelines">Is Your Website Easy to Use?<a></li>
+					<li><a href="https://dynomapper.com/blog/19-ux/464-usability-guidelines">Is Your Website Easy to Use?</a></li>
+					<li><a href="https://unsplash.com/">Update Your Website with Free, Beautiful Pictures</a></li>
 				</ul>
 			</div>
 		</div>
