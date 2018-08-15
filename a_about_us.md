@@ -24,7 +24,10 @@ author: null
 		<div class="inner">
 			<header class="major">
 				<h2 id="Mission">Our mission: </h2>
-				<p>Our purpose is to foster discussions about how technology can be utilized to create a better world. In addition, we will work to advance the national organization’s mission: to empower a new generation of leaders working at the intersection of technology and social impact.</p>			
+				<p>Our purpose is to foster discussions about how technology can be utilized to create a better world. In addition, we will work to advance the national organization’s mission: to empower a new generation of leaders working at the intersection of technology and social impact.</p>		
+				<ul class="actions">
+					<li><a href="https://techshift.co/" class="button special big">Find Out About TechShift</a></li>
+				</ul>
 			</header>
 		</div>
 	</section>
@@ -176,11 +179,11 @@ author: null
 					<div class="4u"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
 					<div class="4u"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
 					<div class="4u$"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
-					
+
 					<div class="4u"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
 					<div class="4u"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
 					<div class="4u$"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
-					
+
 					<div class="4u"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
 					<div class="4u"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
 					<div class="4u$"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
