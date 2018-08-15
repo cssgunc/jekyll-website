@@ -6,7 +6,7 @@
 
 /* Type */
 
-	body, input, select {
+	body, select {
 		color: _palette(fg);
 		font-family: _font(family);
 		font-size: 17pt;
@@ -29,14 +29,27 @@
 		}
 	}
 
-	textarea {
+	textarea, input {
 		border-radius: 10px;
 		background: #c2c2d6;
+		//color: _palette(fg);
 		font-family: _font(family);
 		font-size: 17pt;
 		font-weight: _font(weight);
 		letter-spacing: _font(letter-spacing);
 		line-height: 1.65;
+
+		@include breakpoint(xlarge) {
+			font-size: 14pt;
+		}
+
+		@include breakpoint(large) {
+			font-size: 12pt;
+		}
+
+		@include breakpoint(xxsmall) {
+			font-size: 11pt;
+		}
 	}
 
 	a {
