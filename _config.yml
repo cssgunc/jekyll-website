@@ -7,7 +7,7 @@ description: Through technology, we have the opportunity to be a part of positiv
 #baseurl: "/jekyll-website" # the subpath of your site, e.g. /blog
 baseurl: "/"
 #url: https://unc-cs-sg.github.io # the base hostname & protocol for your site
-url: https://unc-cs-sg.org
+url: https://unc-cssg.org
 author:
 street_address: 201 S. Columbia Street
 city: Chapel Hill
