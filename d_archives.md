@@ -19,6 +19,8 @@ nav-menu: true
   <!--here will be pics and calednar of events-->
   <p>We have a lot planned for you! Come back later or follow us on <a href="https://www.facebook.com/cssguncch/">Facebook</a> to keep up to date!</p>
 
+	<hr>
+
 <h2 id="content">Our Partners</h2>
 	<p>We haven't formed any partnerships yet, but once we do, we'll tell you all about our work with them and give examples! Stay tuned!</p>
     <!--<div class="table-wrapper">
