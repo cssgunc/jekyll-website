@@ -41,12 +41,11 @@
 	<div class="inner">
 		{% for post in site.posts %}
 			<header class="major">
-				<h1><a href={{post.url | absolute_url}}>{{ post.title }}</a></h1>
-				<h3>{{ post.author }}</h1>
+				<h2><a href={{post.url | absolute_url}}>{{ post.title }}</a></h2>
+				<p><b><span class="author">{{ post.author }}</span>
+					<span class="date">{% if post.date %} - {{ post.date | date_to_string }}{% endif %}</span>
+				</b></p>
 			</header>
-			{% if post.date %}
-				<p><b>Published on {{ post.date | date_to_string }}</b></p>
-			{% endif %}
 			<p>
 				<i>{{ post.description }}</i>
 			</p>
