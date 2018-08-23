@@ -3,8 +3,11 @@ layout: post
 title: "Member Spotlight: Timothy Lo"
 description: Meet Timothy Lo — CS+SG's treasurer, aspiring business professional, and perhaps the club's biggest eater?
 author: Austin Wang
-image: assets/images/posts/spotlights/TimothyLo2.jpg 
+image: assets/images/posts/spotlights/TimothyLo.jpg 
+image_right: True
 ---
+
+Timothy is CS+SG's treasurer. He's in the Class of 2021 and is majoring in Business Administration. We asked Timothy to answer a few questions about himself.
 
 ### What internships/experiences have you had have had a lasting impact on you?
 
