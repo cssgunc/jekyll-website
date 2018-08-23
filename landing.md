@@ -29,7 +29,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="" class="image">
 			<img src="assets/images/apply.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
