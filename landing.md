@@ -29,9 +29,9 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<!--<a href="generic.html" class="image">-->
+		<a href="generic.html" class="image">
 			<img src="assets/images/apply.jpg" alt="" data-position="center center" />
-		<!--</a>-->
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
