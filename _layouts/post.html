@@ -21,13 +21,16 @@
 	<div class="inner">
 		<header class="major">
 			<h1>{{ page.title }}</h1>
-      		<h2>By {{ page.author }}</h2>
-      		{% if page.date %}
-      			<h3>Published on {{ page.date | date_to_string }}</h3>
-      		{% endif %} 
+			<p><span class="author">{{ page.author }}</span>
+				<span class="date">{% if page.date %} - {{ page.date | date_to_string }}{% endif %}</span>
+			</p>
 		</header>
 		{% if page.image %}
-			<span class="image main"><img src={{ page.image | absolute_url}} alt="" /></span>
+			{% if page.image_right %}
+				<span class="image right"><img src={{ page.image | absolute_url}} alt="" /></span>
+			{% else %}
+				<span class="image main"><img src={{ page.image | absolute_url}} alt="" /></span>				
+			{% endif %}
 			{% if page.photocredit %}
 				<div style="text-align: center;">
 					<i>{{ page.photocredit }}</i>
