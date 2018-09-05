@@ -4,7 +4,7 @@ div.archive-img {
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 	border-radius: 8px;
 	width: 150%;
-	max-width: 225px;
+	max-width: 175px;
 	height: 100%;
 }
 .archive-img {
@@ -15,6 +15,7 @@ div.archive-img {
 	width: 100%;
 	max-width: 175px;
 	height: 100%;
+  padding-right: 10px;
 }
 .event-description {
   margin: 5px 5px 5px;
