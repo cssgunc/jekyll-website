@@ -20,7 +20,7 @@ nav-menu: true
   <!--here will be pics and calednar of events-->
 	<section id="two" class="spotlights profiles">
 	<!--Dr. Elliot Inman Event-->
-		<section class="profile-box">
+		<section class="event-box">
 			<div class="archive-img">
 				<img src="{{ "assets/images/blogPics/ElliotInmanRaw2.png" | relative_url }}" alt="Elliot Inman, SAS" />
 				<div class="profile-img-container">
