@@ -18,7 +18,7 @@ nav-menu: true
 <h2 id="content">Our Events</h2>
   <!--here will be pics and calednar of events-->
 	<section id="two" class="spotlights profiles">
-		<!-- Cassidy -->
+	<!--Dr. Elliot Inman Event-->
 		<section class="profile-box">
 			<div class="profile-img">
 				<img src="{{ "assets/images/blogPics/ElliotInmanRaw2.png" | relative_url }}" alt="Elliot Inman, SAS" />
@@ -34,7 +34,7 @@ nav-menu: true
 					Read more about our event with Dr. Elliot Inman discussing how to use tech and data for good!
 				</p>
 				<ul class="actions">
-					<li><a href="/posts/2018-9-5-ElliotInmanSASTalk.md" class="button">Read More Here</a></li>
+					<li><a href="" class="button">Read More Here</a></li>
 				</ul>
 			</div>
 		</section>
