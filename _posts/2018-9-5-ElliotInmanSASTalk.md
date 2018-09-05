@@ -4,7 +4,7 @@ title: "September 20th, 2018: A Beginner's Guide to Doing Good with Dr. Elliot I
 description: Our first event for the Fall of 2018 will be hosted by Dr. Elliot Inman, Manager of Software Development at SAS, as he shares with us his experience working on SAS' Data4Good initiative and other experiences using tech for good.
 author: Cassidy Soutter
 image: assets/images/blogPics/ElliotInmanRaw2.png
-image_left: True
+#image_left: True
 ---
 
 Computer science skills are in high demand, but not every organization that can benefit from a well-designed website or useful contact database or analytic data model has the resources to support a full-time staff of programmers and data scientists.  Not-for-profits, public schools, faith-based services, and other groups that do great things for their communities need your help.  
