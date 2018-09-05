@@ -15,6 +15,6 @@ But if you are a computer science or data science student who wants to help, it 
 In this talk, Elliot Inman, a manager of software development for SAS, will provide students with some practical advice on how to find an opportunity that is a good fit given your skills and ability to commit to helping a cause you value.  We will talk about some of the buzzwords you often hear (hackathon, code-a-thon, meetups, data dives, data-for-good, and others).  We will discuss how open data and sharing code has made it easier for students who care about issues of social justice and making a difference.  And we will also talk about how some of the things we think of as best practices in computer science like documenting code and implementing robust, supported code are important for students who want to be sure their contributions can go beyond their involvement in a project.    
 
 As part of his presentation, Dr. Inman will talk about his work with GatherIQ, SAS’ data-for-good data visualization platform, and some of the work he has done in education, healthcare, and, in particular, evaluating outcomes for at-risk youth.  He will also talk about some of the opportunities within SAS for internships that support SAS’ own data-for-good initiatives.
-###For More Information:
+### For More Information:
 <br><a href= "https://blogs.sas.com/content/author/elliotinman/">Elliot Inman at SAS</a>
 <br><a href="https://gatheriq.analytics/">GatherIQ at SAS</a>
