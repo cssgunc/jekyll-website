@@ -15,7 +15,7 @@ nav-menu: true
 
 <!-- Content -->
 <!--NOTE: Things on this page are: Media packet, pics from past events, our partner organizations and projects-->
-<h2 id="content">Our Events</h2>
+<h1 id="content">Our Events</h1>
   <!--here will be pics and calednar of events-->
 	<section id="two" class="spotlights profiles">
 	<!--Dr. Elliot Inman Event-->
@@ -26,7 +26,7 @@ nav-menu: true
 					<h3>September 20th, 2018. 6-7:30PM.</h3>
 				</div>
 			</div>
-			<div class="profile-description">
+			<div class="event-description">
 				<h2>Hackathons, Meetups, Open Data, and Sharing Code:  A Beginner’s Guide to Doing Good</h2>
 				<h3>Dr. Elliot Inman, Manager of Software Development at SAS</h3>
 				<p>
@@ -88,8 +88,8 @@ nav-menu: true
 
     </div>
     <div class="6u$ 12u$(medium)">-->
-
-</div>
+<!-- UNNECESSARY DIV
+</div>-->
 </section>
 
 </div>
