@@ -33,7 +33,7 @@ nav-menu: true
 					Read more about our event with Dr. Elliot Inman discussing how to use tech and data for good!
 				</p>
 				<ul class="actions">
-					<li><a href="/2018-9-5-ElliotInmanSASTalk.html" class="button">Read More Here</a></li>
+					<li><a href="ElliotInmanSASTalk" class="button">Read More Here</a></li>
 				</ul>
 			</div>
 		</section>
