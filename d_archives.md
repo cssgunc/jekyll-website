@@ -8,6 +8,7 @@ nav-menu: true
 ---
 
 <div id="main" class="alt">
+<!--<link rel="stylesheet" type="text/css" href="{{ "assets/css/archive_layout.css" | relative_url }}">-->
 
 <!-- One -->
 <section id="one">
@@ -88,8 +89,6 @@ nav-menu: true
 
     </div>
     <div class="6u$ 12u$(medium)">-->
-<!-- UNNECESSARY DIV
-</div>-->
 </section>
 
 </div>
