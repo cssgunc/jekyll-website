@@ -45,7 +45,7 @@ nav-menu: true
 
 	<hr>
 
-<h2 id="content">Our Partners</h2>
+<h1 id="content">Our Partners</h1>
 	<p>We haven't formed any partnerships yet, but once we do, we'll tell you all about our work with them and give examples! Stay tuned!</p>
     <!--<div class="table-wrapper">
       <table class="alt">
