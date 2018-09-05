@@ -27,8 +27,8 @@ nav-menu: true
 				</div>
 			</div>
 			<div class="profile-description">
-				<h1>Hackathons, Meetups, Open Data, and Sharing Code:  A Beginner’s Guide to Doing Good</h1>
-				<h2>Dr. Elliot Inman, Manager of Software Development at SAS</h2>
+				<h2>Hackathons, Meetups, Open Data, and Sharing Code:  A Beginner’s Guide to Doing Good</h2>
+				<h3>Dr. Elliot Inman, Manager of Software Development at SAS</h3>
 				<p>
 					Read more about our event with Dr. Elliot Inman discussing how to use tech and data for good!
 				</p>

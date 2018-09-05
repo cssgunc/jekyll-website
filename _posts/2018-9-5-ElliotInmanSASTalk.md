@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "September 20th, 2018: A Beginner's Guide to Doing Good with Dr. Elliot Inman from SAS"
+title: "A Beginner's Guide to Doing Good with Dr. Elliot Inman from SAS: September 20th, 2018"
 description: Our first event for the Fall of 2018 will be hosted by Dr. Elliot Inman, Manager of Software Development at SAS, as he shares with us his experience working on SAS' Data4Good initiative and other experiences using tech for good.
 author: Cassidy Soutter
 image: /assets/images/blogPics/ElliotInmanRaw2.png
@@ -16,5 +16,5 @@ In this talk, Elliot Inman, a manager of software development for SAS, will prov
 
 As part of his presentation, Dr. Inman will talk about his work with GatherIQ, SAS’ data-for-good data visualization platform, and some of the work he has done in education, healthcare, and, in particular, evaluating outcomes for at-risk youth.  He will also talk about some of the opportunities within SAS for internships that support SAS’ own data-for-good initiatives.
 ### For More Information:
-<br><a href= "https://blogs.sas.com/content/author/elliotinman/">Elliot Inman at SAS</a>
+<a href= "https://blogs.sas.com/content/author/elliotinman/">Elliot Inman at SAS</a>
 <br><a href="https://gatheriq.analytics/">GatherIQ at SAS</a>
