@@ -17,6 +17,28 @@ nav-menu: true
 <!--NOTE: Things on this page are: Media packet, pics from past events, our partner organizations and projects-->
 <h2 id="content">Our Events</h2>
   <!--here will be pics and calednar of events-->
+	<section id="two" class="spotlights profiles">
+		<!-- Cassidy -->
+		<section class="profile-box">
+			<div class="profile-img">
+				<img src="{{ "assets/images/blogPics/ElliotInmanRaw2.png" | relative_url }}" alt="Elliot Inman, SAS" />
+				<div class="profile-img-container">
+					<p>September 20th, 2018. 6-7:30PM.</p>
+				</div>
+			</div>
+			<div class="profile-description">
+				<h1>Hackathons, Meetups, Open Data, and Sharing Code:  A Beginner’s Guide to Doing Good</h1>
+				<h2>Dr. Elliot Inman</h2>
+				<h2>Manager of Software Development at SAS</h2>
+				<p>
+					Read more about our event with Dr. Elliot Inman discussing how to use tech and data for good!
+				</p>
+				<ul class="actions">
+					<li><a href="/posts/2018-9-5-ElliotInmanSASTalk.md" class="button">Read More Here</a></li>
+				</ul>
+			</div>
+		</section>
+
   <p>We have a lot planned for you! Come back later or follow us on <a href="https://www.facebook.com/cssguncch/">Facebook</a> to keep up to date!</p>
 
 	<hr>
