@@ -3,15 +3,16 @@ layout: post
 title: "Member Spotlight: Timothy Lo"
 description: Meet Timothy Lo — CS+SG's treasurer, aspiring business professional, and perhaps the club's biggest eater?
 author: Austin Wang
-image: assets/images/posts/spotlights/TimothyLo.jpg 
+image: assets/images/posts/spotlights/TimothyLo.jpg
 image_right: True
+permalink: /MemberHighlightTim
 ---
 
 Timothy is CS+SG's treasurer. He's in the Class of 2021 and is majoring in Business Administration. We asked Timothy to answer a few questions about himself.
 
 ### What internships/experiences have you had have had a lasting impact on you?
 
-This past summer, I interned at an investment bank in Shanghai. The experience was very eyeopening in the sense that I was able to get a grasp of China's professional culture. My time spent interning helped me become more aware of Chinese culture and gain real work experience in my potential work field. 
+This past summer, I interned at an investment bank in Shanghai. The experience was very eyeopening in the sense that I was able to get a grasp of China's professional culture. My time spent interning helped me become more aware of Chinese culture and gain real work experience in my potential work field.
 
 ### What do you want for your life after college?
 
@@ -19,7 +20,7 @@ My best case scenario would be working in New York, either at an investment bank
 
 ### What has CS+SG given you as a person?
 
-I've always been interested in computer science and through CS+SG I'm able to give back to the community utilizing my business skills. 
+I've always been interested in computer science and through CS+SG I'm able to give back to the community utilizing my business skills.
 
 ### What's a fun fact about yourself?
 
