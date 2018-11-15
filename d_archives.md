@@ -39,6 +39,26 @@ nav-menu: true
 			</div>
 		</section>
 
+		<!--HackNC Event-->
+		<section class="event-box">
+			<div class="archive-img">
+				<img src="{{ "assets/images/blogPics/HackNC.jpg" | relative_url }}" alt="HackNC Prize Winner" />
+				<div class="profile-img-container">
+					<h3>October 6-7, 2018.</h3>
+				</div>
+			</div>
+			<div class="event-description">
+				<h2>CS+Social Good's Most Innovative Social Hack at HackNC</h2>
+				<h3>CS+SG and Winners from "IntelliScroll"</h3>
+				<p>
+					Read more about our participation in HackNC's prize distribution and the fostering of conversation around social good with technology.
+				</p>
+				<ul class="actions">
+					<li><a href="HackNCPrize" class="button">Read More Here</a></li>
+				</ul>
+			</div>
+		</section>
+
 		<br >
 
   <p>We have a lot planned for you! Come back later or follow us on <a href="https://www.facebook.com/cssguncch/">Facebook</a> to keep up to date!</p>
