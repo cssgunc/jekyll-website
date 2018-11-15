@@ -36,7 +36,7 @@ author: null
 		<!-- Cassidy -->
 		<section class="profile-box">
 			<div class="profile-img">
-				<img src="{{ "assets/images/memberPictures/CassidySoutter.JPG" | relative_url }}" alt="Cassidy Souter" />
+				<img src="{{ "assets/images/memberPictures/CassidySoutter2.jpg" | relative_url }}" alt="Cassidy Souter" />
 				<div class="profile-img-container">
 					<p>Cassidy Soutter</p>
 				</div>
