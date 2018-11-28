@@ -74,6 +74,8 @@ h3>Cybersecurity</h3>
 				<a class="anchor" id="data"></a><h3>Data Analysis</h3>
 				<ul>
 					<li><a href="https://www.coursera.org/learn/data-analysis-with-python">Data Analysis with Python by IBM</a></li>
+					<li><a href="https://www.tableau.com/academic/students">Tableau's Student Software for Data Visualization</a></li>
+					<li><a href="https://www.sas.com/en_us/software/university-edition.html">SAS University Edition: Using SAS to Work with Data</a></li>
 				</ul>
 				<a class="anchor" id="finance"></a><h3>Finance</h3>
 				<ul>
