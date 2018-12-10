@@ -9,7 +9,7 @@ baseurl: "/"
 #url: https://unc-cs-sg.github.io # the base hostname & protocol for your site
 url: https://unc-cssg.org
 author:
-street_address: 201 S. Columbia Street
+street_address: Box 205 Frank Porter Graham Student Union, UNC-CH Campus Box 5210
 city: Chapel Hill
 state: NC
 zip_code: 27599
