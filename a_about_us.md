@@ -158,6 +158,7 @@ author: null
 				</p>
 			</div>
 		</section>
+</section>
 
 		<section id="PastExec" class="profile-header">
 			<div class="inner">
