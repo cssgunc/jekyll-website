@@ -169,6 +169,7 @@ author: null
 		</section>
 
 		<!-- Izzi -->
+		<section class="profile-box">
 			<div class="profile-img">
 				<img src="{{ "assets/images/memberPictures/IzziHinks.jpg" | relative_url }}" alt="Isabella (Izzi) Hinks" />
 				<div class="profile-img-container">
@@ -183,7 +184,7 @@ author: null
 					<p>Timothy Lo, Treasurer, 2018</p>
 				</div>
 			</div>
-
+			</section>
 	<!-- <section id="Member">
 		<div class="inner">
 			<header class="major">
