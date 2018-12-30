@@ -169,32 +169,20 @@ author: null
 		</section>
 
 		<!-- Izzi -->
-		<section class="profile-box">
 			<div class="profile-img">
 				<img src="{{ "assets/images/memberPictures/IzziHinks.jpg" | relative_url }}" alt="Isabella (Izzi) Hinks" />
 				<div class="profile-img-container">
-					<p>Isabella (Izzi) Hinks</p>
+					<p>Isabella (Izzi) Hinks, Project Coordinator, 2018</p>
 				</div>
 			</div>
-			<div class="profile-description">
-				<h1>Isabella (Izzi) Hinks</h1>
-				<h2>Project Coordinator</h2>
-			</div>
-		</section>
 
 		<!-- Tim -->
-		<section class="profile-box">
 			<div class="profile-img">
 				<img src="{{ "assets/images/memberPictures/TimothyLo.JPG" | relative_url }}" alt="Timothy Lo" />
 				<div class="profile-img-container">
-					<p>Timothy Lo</p>
+					<p>Timothy Lo, Treasurer, 2018</p>
 				</div>
 			</div>
-			<div class="profile-description">
-				<h1>Timothy Lo</h1>
-				<h2>Treasurer</h2>
-			</div>
-		</section>
 
 	<!-- <section id="Member">
 		<div class="inner">
