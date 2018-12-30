@@ -55,7 +55,6 @@ author: null
 			</div>
 		</section>
 
-
 		<!-- Visrut -->
 		<section class="profile-box">
 			<div class="profile-img">
@@ -66,7 +65,7 @@ author: null
 			</div>
 			<div class="profile-description">
 				<h1>Visrut Sudhakar</h1>
-				<h2>President</h2>
+				<h2>Vice President</h2>
 				<p>
 					<span class='grad-date'>December 2019</span>,
 					B.S. in Computer Science, B.S. in Mathematics
@@ -78,25 +77,25 @@ author: null
 			</div>
 		</section>
 
-		<!-- Izzi -->
+		<!-- Abby -->
 		<section class="profile-box">
 			<div class="profile-img">
-				<img src="{{ "assets/images/memberPictures/IzziHinks.jpg" | relative_url }}" alt="Isabella (Izzi) Hinks" />
+				<img src="{{ "assets/images/memberPictures/AbbyBrosnan.jpeg" | relative_url }}" alt="Abby Brosnan" />
 				<div class="profile-img-container">
-					<p>Isabella (Izzi) Hinks</p>
+					<p>Abby Brosnan</p>
 				</div>
 			</div>
 			<div class="profile-description">
-				<h1>Isabella (Izzi) Hinks</h1>
-				<h2>Project Coordinator</h2>
+				<h1>Abby Brosnan</h1>
+				<h2>Outreach Coordinator</h2>
 				<p>
-					<span class='grad-date'>May 2020</span>,
-					B.S. in Computer Science, B.S. in Environmental Science, Minor in Mathematical Decision Sciences
+					<span class='grad-date'>May 2021</span>,
+					B.S. in Computer Science, Minor in Environmental Science and Studies
 				</p>
 				<h4>Why are you passionate about CS+SG?</h4>
-				<p>With great power comes great responsibility. My favorite part about computer science is that any individual, from any background, can use it as a tool for good. I'm passionate about CS+SG because it empowers students from all walks of life to collaborate and use our growing skills to help our community.</p>
+				<p>I think everyone has an obligation to use their skills and talents to make a positive impact on others, whatever that may be.  A lot of organizations in the community have no idea how much more they could be accomplishing with technology, or just don't have the tools to accomplish it.  Every time we empower an organization with technology, we help them as well as all the people they help through their mission, and it's a great feeling.</p>
 				<h4>Fun facts about me!</h4>
-				<p>I'm a certified yoga teacher, and I'm passionate about teaching communities who may benefit from it most -- at-risk youth, cancer patients and survivors, and veterans with combat stress and PTSD. </p>
+				<p>I've been skydiving!</p>
 			</div>
 		</section>
 
@@ -122,23 +121,23 @@ author: null
 			</div>
 		</section>
 
-		<!-- Tim -->
+		<!-- Grant -->
 		<section class="profile-box">
 			<div class="profile-img">
-				<img src="{{ "assets/images/memberPictures/TimothyLo.JPG" | relative_url }}" alt="Timothy Lo" />
+				<img src="{{ "assets/images/memberPictures/GrantMiller.jpg" | relative_url }}" alt="Grant Miller" />
 				<div class="profile-img-container">
-					<p>Timothy Lo</p>
+					<p>Grant Miller</p>
 				</div>
 			</div>
 			<div class="profile-description">
-				<h1>Timothy Lo</h1>
-				<h2>Treasurer</h2>
+				<h1>Grant Miller</h1>
+				<h2>Education Chair</h2>
 				<p>
-					<span class='grad-date'>May 2021</span>,
-					B.S. in Business Administration
+					<span class='grad-date'>May 2020</span>,
+					B.S. and M.S. in Computer Science
 				</p>
 				<h4>Why are you passionate about CS+SG?</h4>
-				<p>I’ve always been interested in technology and the various ways it can be utilized. CS+SG offers opportunities that give back to the community while also allowing its members to learn about the growing usages of technology.</p>
+				<p>Because technology has a huge potential to positively benefit society.</p>
 			</div>
 		</section>
 
@@ -157,6 +156,42 @@ author: null
 					<span class='grad-date'>May 2020</span>,
 					B.S. in Physics, B.S. in Computer Science
 				</p>
+			</div>
+		</section>
+
+		<section id="PastExec" class="profile-header">
+			<div class="inner">
+				<header class="major">
+					<h2>Past Executive Members</h2>
+				</header>
+			</div>
+		</section>
+
+		<!-- Izzi -->
+		<section class="profile-box">
+			<div class="profile-img">
+				<img src="{{ "assets/images/memberPictures/IzziHinks.jpg" | relative_url }}" alt="Isabella (Izzi) Hinks" />
+				<div class="profile-img-container">
+					<p>Isabella (Izzi) Hinks</p>
+				</div>
+			</div>
+			<div class="profile-description">
+				<h1>Isabella (Izzi) Hinks</h1>
+				<h2>Project Coordinator</h2>
+			</div>
+		</section>
+
+		<!-- Tim -->
+		<section class="profile-box">
+			<div class="profile-img">
+				<img src="{{ "assets/images/memberPictures/TimothyLo.JPG" | relative_url }}" alt="Timothy Lo" />
+				<div class="profile-img-container">
+					<p>Timothy Lo</p>
+				</div>
+			</div>
+			<div class="profile-description">
+				<h1>Timothy Lo</h1>
+				<h2>Treasurer</h2>
 			</div>
 		</section>
 
