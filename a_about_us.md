@@ -166,7 +166,6 @@ author: null
 					<h2>Past Executive Members</h2>
 				</header>
 			</div>
-		</section>
 
 		<!-- Izzi -->
 		<section class="profile-box">
@@ -184,7 +183,7 @@ author: null
 					<p>Timothy Lo, Treasurer, 2018</p>
 				</div>
 			</div>
-			</section>
+		</section>
 	<!-- <section id="Member">
 		<div class="inner">
 			<header class="major">
