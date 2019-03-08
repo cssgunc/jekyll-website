@@ -59,6 +59,47 @@ nav-menu: true
 			</div>
 		</section>
 
+		<!--Fall 2018 Showcase Event-->
+		<section class="event-box">
+			<div class="archive-img">
+				<img src="{{ "assets/images/blogPics/F18Showcase.jpg" | relative_url }}" alt="Fall 2018 Showcase" />
+				<div class="profile-img-container">
+					<h3>November 29, 2018.</h3>
+				</div>
+			</div>
+			<div class="event-description">
+				<h2>CS+Social Good's Fall 2018 Showcase</h2>
+				<h3>Partner: Kay Blada Recycling</h3>
+				<p>
+					Read more about our partnership with Kay Blada Recycling and the data visualizations we created for them!
+				</p>
+				<!--TODO: Visrut: please uncomment this once your TechShift information is up-->
+				<!--<ul class="actions">
+					<li><a href="#KayBladaRecycling" class="button">Read More Here</a></li>
+				</ul>-->
+			</div>
+		</section>
+
+		<!--TechShift Summit 2019-->
+		<section class="event-box">
+			<div class="archive-img">
+				<img src="{{ "assets/images/blogPics/TechShift19.jpg" | relative_url }}" alt="TechShift Summit 2019" />
+				<div class="profile-img-container">
+					<h3>January 18-21, 2019.</h3>
+				</div>
+			</div>
+			<div class="event-description">
+				<h2>TechShift Summit 2019, Hosted by CS+Social Good at UNC</h2>
+				<h3>Members of the TechShift Alliance including UNC, Stanford, NYU Shanghai, and many others!</h3>
+				<p>
+					Read more about our weekend of conversation, speakers and social good.
+				</p>
+				<ul class="actions">
+					<li><a href="TechShift19" class="button">Read More Here</a></li>
+				</ul>
+			</div>
+		</section>
+
 		<br >
 
   <p>We have a lot planned for you! Come back later or follow us on <a href="https://www.facebook.com/cssguncch/">Facebook</a> to keep up to date!</p>
