@@ -103,14 +103,14 @@ nav-menu: true
 		<!--Valentine's Day Cards 2019-->
 		<section class="event-box">
 			<div class="archive-img">
-				<img src="{{ "assets/images/blogPics/Valentines19.jpg" | relative_url }}" alt="Valentines Day 2019" />
+				<img src="{{ "assets/images/blogPics/ValentinesCards19.jpg" | relative_url }}" alt="Valentines Day 2019" />
 				<div class="profile-img-container">
 					<h3>February 14, 2019.</h3>
 				</div>
 			</div>
 			<div class="event-description">
 				<h2>Valentines Day Cards for UNC Hospitals, Hosted by CS+Social Good at UNC</h2>
-				<h3>We set up a table in our computer science building to encourage other computer science students to give back to our community. We ended up creating 60+ cards for the children at UNC Hospitals to remind them that they are loved and strong.</h3>
+				<p>We set up a table in our computer science building to encourage other computer science students to give back to our community. We ended up creating 60+ cards for the children at UNC Hospitals to remind them that they are loved and strong.</p>
 				<!--<p>
 					Read more about our weekend of conversation, speakers and social good.
 				</p>
