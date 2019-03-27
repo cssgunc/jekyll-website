@@ -55,9 +55,9 @@ nav-menu: true
 					<h3>Find the need in your community.</h3>
 				</header>
 				<p>Within our community, we are the most aware of what our needs and problems are. We each have the power to make a difference, which starts with advocation for the problem. Once people are aware, we can create a creative solution to bridge the gap with what we need.</p>
-				<!--<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>-->
+				<ul class="actions">
+					<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdF71qkRdG7BbCU-hEKZw4q2MuNMbtebSUBKr7oUMX_JYMF8A/viewform?usp=pp_url" class="button special big">Apply to Partner with Us!</a></li>
+				</ul>
 			</div>
 		</div>
 	</section>
