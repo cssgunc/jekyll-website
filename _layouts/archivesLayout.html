@@ -31,8 +31,82 @@
         </div>
     </section>
 
+    <!-- Main -->
+    <div id="main" class="alt">
 
-    {{ content }} {% include footer.html %}
+        <!-- One -->
+        <section id="one">
+            <div class="inner">
+                <h1 id="eventsContent">Past Events</h1>
+                {% for post in site.tags['events'] %}
+                    <section id="{{ post.title }}" class="spotlights profiles">
+                        <section class="event-box">
+                            <div class="archive-img">
+                                <img src={{ site.url }}/{{ post.image }} alt="" />
+                            </div>
+                            <div class="event-description">
+                                <h2>{{post.title}}</h2>
+                                <p>
+                                    {{post.description}}
+                                </p>
+                                <ul class="actions">
+                                    <li><a href={{ post.url }} class="button">Read More</a></li>
+                                </ul>
+                            </div>
+                        </section>
+                    </section>
+                {% endfor %}
+            </div>
+
+            <div class="inner">
+                    <h1 id="eventsContent">Past Community Involvement</h1>
+                    {% for post in site.tags['community'] %}
+                        <section id="{{ post.title }}" class="spotlights profiles">
+                            <section class="event-box">
+                                <div class="archive-img">
+                                    <img src={{ site.url }}/{{ post.image }} alt="" />
+                                </div>
+                                <div class="event-description">
+                                    <h2>{{post.title}}</h2>
+                                    <p>
+                                        {{post.description}}
+                                    </p>
+                                    <ul class="actions">
+                                        <li><a href={{ post.url }} class="button">Read More</a></li>
+                                    </ul>
+                                </div>
+                            </section>
+                        </section>
+                    {% endfor %}
+                </div>
+        </section>
+
+        <div class="inner">
+                <h1 id="eventsContent">Past Partnerships</h1>
+                {% for post in site.tags['partners'] %}
+                    {% if post.categories contains 'archive' %}
+                        <section id="{{ post.title }}" class="spotlights profiles">
+                            <section class="event-box">
+                                <div class="archive-img">
+                                    <img src={{ site.url }}/{{ post.image }} alt="" />
+                                </div>
+                                <div class="event-description">
+                                    <h2>{{post.title}}</h2>
+                                    <p>
+                                        {{post.description}}
+                                    </p>
+                                    <ul class="actions">
+                                        <li><a href={{ post.url }} class="button">Read More</a></li>
+                                    </ul>
+                                </div>
+                            </section>
+                        </section>
+                    {% endif %}
+                {% endfor %}
+            </div>
+    </section>
+    
+    </div>
 
 </body>
 
