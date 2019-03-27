@@ -5,6 +5,7 @@ description: Our team decided to host a prize for the most social good oriented 
 author: Cassidy Soutter
 image: /assets/images/blogPics/HackNC.jpg
 permalink: /HackNCPrize
+tags: community
 #image_left: True
 ---
 

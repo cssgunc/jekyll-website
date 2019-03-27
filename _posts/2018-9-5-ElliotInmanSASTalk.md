@@ -5,6 +5,7 @@ description: Our first event for the Fall of 2018 will be hosted by Dr. Elliot I
 author: Cassidy Soutter
 image: /assets/images/blogPics/ElliotInmanRaw2.png
 permalink: /ElliotInmanSASTalk
+tags: events
 #image_left: True
 ---
 
