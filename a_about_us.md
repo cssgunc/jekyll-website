@@ -1,6 +1,6 @@
 ---
 layout: aboutUsLayout
-title: About us
+title: About Us
 permalink: /about
 landing-title: About us
 nav-menu: true
