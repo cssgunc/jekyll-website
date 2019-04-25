@@ -141,21 +141,23 @@ author: null
 			</div>
 		</section>
 
-		<!-- Armaan -->
+		<!-- Nick Day -->
 		<section class="profile-box">
 			<div class="profile-img">
-				<img src="{{ "assets/images/dog_in_shirt.jpg" | relative_url }}" alt="Armaan Sethi" />
+				<img src="{{ "assets/images/NickDay.jpg" | relative_url }}" alt="Nicholas Day" />
 				<div class="profile-img-container">
-					<p>Armaan Sethi</p>
+					<p>Nicholas Day</p>
 				</div>
 			</div>
 			<div class="profile-description">
-				<h1>Armaan Sethi</h1>
-				<h2>Event Coordinator and Logistics Chair</h2>
+				<h1>Nicholas Day</h1>
+				<h2>Technology Chair</h2>
 				<p>
-					<span class='grad-date'>May 2020</span>,
-					B.S. in Physics, B.S. in Computer Science
+					<span class='grad-date'>May 2022</span>,
+					B.S. in Computer Science
 				</p>
+				h4>Why are you passionate about CS+SG?</h4>
+				<p>I love helping the community and working on technical projects. </p>
 			</div>
 		</section>
 </section>
@@ -184,6 +186,14 @@ author: null
 				<img src="{{ "assets/images/memberPictures/TimothyLo.JPG" | relative_url }}" alt="Timothy Lo" />
 				<div class="profile-img-container">
 					<p>Timothy Lo, Treasurer, 2018</p>
+				</div>
+			</div>
+
+			<!--Armaan-->
+			<div class="profile-img">
+				<img src="{{ "assets/images/memberPictures/ArmaanSethi.jpg" | relative_url }}" alt="Armaan Sethi" />
+				<div class="profile-img-container">
+					<p>Armaan Sethi, Events Coordinator, 2018-2019</p>
 				</div>
 			</div>
 
