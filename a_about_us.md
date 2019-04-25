@@ -141,6 +141,28 @@ author: null
 			</div>
 		</section>
 
+		<!-- Ella Carter -->
+		<section class="profile-box">
+			<div class="profile-img">
+				<img src="{{ "assets/images/EllaCarter.png" | relative_url }}" alt="Ella Carter" />
+				<div class="profile-img-container">
+					<p>Ella Carter</p>
+				</div>
+			</div>
+			<div class="profile-description">
+				<h1>Ella Carter</h1>
+				<h2>Technology Chair</h2>
+				<p>
+					<span class='grad-date'>May 2022</span>,
+					B.S. in Computer Science, B.S. in Environmental Science on the Quantitative Systems Track
+				</p>
+				<h4>Why are you passionate about CS+SG?</h4>
+				<p>For one, I love learning about and understanding computer science. Technology is strongly shaping the human experience, and I love the idea of manipulating and applying my passion for computer science to other fields to help people out.</p>
+				<h4>Fun facts about me!</h4>
+				<p> I took a gap year and worked for the National Park Service in St. Louis. During that internship, my car got stolen twice in three days and totaled. A toy version of my car is now on my keychain. </p>
+			</div>
+		</section>
+
 		<!-- Nick Day -->
 		<section class="profile-box">
 			<div class="profile-img">
@@ -156,7 +178,7 @@ author: null
 					<span class='grad-date'>May 2022</span>,
 					B.S. in Computer Science
 				</p>
-				h4>Why are you passionate about CS+SG?</h4>
+				<h4>Why are you passionate about CS+SG?</h4>
 				<p>I love helping the community and working on technical projects. </p>
 			</div>
 		</section>
