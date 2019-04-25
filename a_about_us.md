@@ -144,7 +144,7 @@ author: null
 		<!-- Ella Carter -->
 		<section class="profile-box">
 			<div class="profile-img">
-				<img src="{{ "assets/images/EllaCarter.png" | relative_url }}" alt="Ella Carter" />
+				<img src="{{ "assets/images/memberPictures/EllaCarter.png" | relative_url }}" alt="Ella Carter" />
 				<div class="profile-img-container">
 					<p>Ella Carter</p>
 				</div>
@@ -166,7 +166,7 @@ author: null
 		<!-- Nick Day -->
 		<section class="profile-box">
 			<div class="profile-img">
-				<img src="{{ "assets/images/NickDay.jpg" | relative_url }}" alt="Nicholas Day" />
+				<img src="{{ "assets/images/memberPictures/NickDay.jpg" | relative_url }}" alt="Nicholas Day" />
 				<div class="profile-img-container">
 					<p>Nicholas Day</p>
 				</div>
