@@ -5,7 +5,7 @@ permalink: /about
 landing-title: About us
 nav-menu: true
 description: Meet our team and see what we stand for!
-image: assets/images/NCLandscape.jpg
+image: assets/images/ValentinesCards.jpg
 author: null
 ---
 

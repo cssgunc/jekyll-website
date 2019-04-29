@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Computer Science + Social Good'
 description: null
-image: assets/images/banner.jpg
+image: assets/images/Spr19Showcase.jpg
 author: null
 ---
 

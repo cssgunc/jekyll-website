@@ -3,7 +3,7 @@ layout: resourcesLayout
 title: Resources
 permalink: /resources
 description: Find more information about technology topics.
-image: assets/images/lightbulb.jpg
+image: assets/images/Fallfest.jpg
 nav-menu: true
 ---
 
