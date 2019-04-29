@@ -109,15 +109,21 @@ author: null
 			</div>
 			<div class="profile-description">
 				<h1>Austin Wang</h1>
-				<h2>Graphics & Technology Chair</h2>
+				<h2>Technology Chair</h2>
 				<p>
 					<span class='grad-date'>May 2020</span>,
 					B.S. in Computer Science, B.S. in Mathematics
 				</p>
 				<h4>Why are you passionate about CS+SG?</h4>
-				<p>I think there are a lot of worthy causes that need just a little technological guidance. Even as students, we can do small & simple things to lend a hand. I think CS+SG is a great way to open up more diverse opportunities for CS majors. CS+SG can help students who aren't interested in tech/finance/academia discover new career paths.</p>
+				<p>I think that we, as CS majors, tend to underestimate the scope of our own influence. A lot of us have a one track mind hooked on a lucrative job market and research opportunities. We often overlook the ways in which we can impact areas outside of our bubble. I hope CS+SG creates passion in environmental science, healthcare, social justice, and more for CS students. *DAB*</p>
 				<h4>Fun facts about me!</h4>
-				<p>I hang out in the Hackerspace (SN0027) a lot during the school year. Feel free to drop by! My favorite season is winter. I tell myself I don't have a favorite color, but I think it's either orange or blue.</p>
+				<ul>
+					<li>I help organize HackNC. Contact me if you're interested; we're always looking for more hands & heads (& sponsors)!</li>
+					<li>I used to (sometimes still) do research in the CS department. If you need any advice about research opportunities, hmu.</li>
+					<li>My favorite season is winter. I tell myself I don't have a favorite color, but I think it's either orange or blue.</li>
+					<li>I like The Killers, John Mayer, Lupe Fiasco, and so much more.</li>
+					<li>I like to take pictures. I shoot on a Canon EOS 500D ~ Sigma 30mm f/1.4 Art ~ Canon 50mm f/1.8 STM.</li>
+				</ul>
 			</div>
 		</section>
 
