@@ -231,8 +231,7 @@ author: null
 			<div class="profile-img">
 				<img src="{{ "assets/images/memberPictures/IzziHinks.jpg" | relative_url }}" alt="Isabella (Izzi) Hinks" />
 				<div class="profile-img-container">
-					<p>Isabella (Izzi) Hinks</p>
-					<p>Project Coordinator, 2018</p>
+					<p>Isabella (Izzi) Hinks, Project Coordinator, 2018</p>
 				</div>
 			</div>
 
@@ -240,8 +239,7 @@ author: null
 			<div class="profile-img">
 				<img src="{{ "assets/images/memberPictures/TimothyLo.JPG" | relative_url }}" alt="Timothy Lo" />
 				<div class="profile-img-container">
-					<p>Timothy Lo</p>
-					<p>Treasurer, 2018</p>
+					<p>Timothy Lo, Treasurer, 2018</p>
 				</div>
 			</div>
 
@@ -249,8 +247,7 @@ author: null
 			<div class="profile-img">
 				<img src="{{ "assets/images/memberPictures/ArmaanSethi.jpg" | relative_url }}" alt="Armaan Sethi" />
 				<div class="profile-img-container">
-					<p>Armaan Sethi</p>
-					<p>Events Coordinator, 2018-2019</p>
+					<p>Armaan Sethi, Events Coordinator, 2018-2019</p>
 				</div>
 			</div>
 
