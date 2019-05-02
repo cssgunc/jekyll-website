@@ -188,6 +188,32 @@ author: null
 				<p>I love helping the community and working on technical projects. </p>
 			</div>
 		</section>
+
+		<!-- Nikhil Vytla -->
+		<section class="profile-box">
+			<div class="profile-img">
+				<img src="{{ "assets/images/memberPictures/NikhilVytla.jpg" | relative_url }}" alt="Nikhil Vytla" />
+				<div class="profile-img-container">
+					<p>Nikhil Vytla</p>
+				</div>
+			</div>
+			<div class="profile-description">
+				<h1>Nikhil Vytla</h1>
+				<h2>Project Manager</h2>
+				<p>
+					<span class='grad-date'>May 2021</span>,
+					B.S. in Computer Science, B.S. in Statistics
+				</p>
+				<h4>Why are you passionate about CS+SG?</h4>
+				<p>I firmly believe in using technology to provide equal access to living and learning, and I hope CS+SG shows members that technology and computer science can truly inspire communities in a multitude of ways, whether that be by simply raising awareness for an issue, building a platform for people to have a voice, or creating interactive robots or games for children with physical and mental impairments!</p>
+				<h4>Fun facts about me!</h4>
+				<ul>
+					<li>I'm one of the original co-founders and current Director of Operations of a tutoring and educational technology nonprofit located in the Bay Area, Onclass.org. Ask me about my life in California!</li>
+					<li>I used to have two carnivorous beta fish in the same tank (big no-no). Funnily enough, they both died peacefully.</li>
+					<li>Favorite things in random order: rock climbing, stargazing, headbanging to lo-fi, 60° weather, air-drumming, and eating food.</li>
+				</ul>
+			</div>
+		</section>
 </section>
 
 		<section id="PastExec" class="profile-header">
