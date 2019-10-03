@@ -264,7 +264,7 @@ author: null
 
 		<!--Grant-->
 			<div class="profile-img">
-				<img src="{{ ""assets/images/memberPictures/GrantMiller.jpg"" | relative_url }}" alt="Grant Miller" />
+				<img src="{{ "assets/images/memberPictures/GrantMiller.jpg" | relative_url }}" alt="Grant Miller" />
 				<div class="profile-img-container">
 					<p>Grant Miller</p>
 					<p>Education Chair</p>
