@@ -103,7 +103,7 @@ author: null
 		<!-- Savannah Evans -->
 		<section class="profile-box">
 			<div class="profile-img">
-				<img src="{{ "assets/images/memberPictures/SavannahEvans.jpg" | relative_url }}" alt="Savannah Evans" />
+				<img src="{{ "assets/images/memberPictures/SavannahEvans.jpeg" | relative_url }}" alt="Savannah Evans" />
 				<div class="profile-img-container">
 					<p>Savannah Evans</p>
 				</div>
