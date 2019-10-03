@@ -120,7 +120,7 @@ author: null
 				</p>
 				<h4>Fun facts about me!</h4>
 				<li> I had no idea what computer science was until I took COMP 110 in the fall of my freshman year. </li>
-				<li> Favorite things: Snickers, A24 movies, Oxford commas, UX design, my cat George, Timothee Chalamet </li>
+				<li> Favorite things: Snickers, A24 movies, Oxford commas, UX design, my cat George, Timothee Chalamet</li>
 			</div>
 		</section>
 
@@ -277,7 +277,7 @@ author: null
 				<img src="{{ "assets/images/memberPictures/NeilDavis.jpg" | relative_url }}" alt="Neil Davis" />
 				<div class="profile-img-container">
 					<p>Neil Davis</p> 
-					<p>Former President, Cofounder</p>
+					<p>President</p>
 					<p>2018</p>
 				</div>
 			</div>
