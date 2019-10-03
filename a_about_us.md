@@ -231,8 +231,20 @@ author: null
 
 		<section id="two" class="spotlights profiles">
 
-		<!-- Izzi -->
+		
 		<section class="profile-box">
+
+		<!--Neil Davis-->
+			<div class="profile-img">
+				<img src="{{ "assets/images/memberPictures/NeilDavis.jpg" | relative_url }}" alt="Neil Davis" />
+				<div class="profile-img-container">
+					<p>Neil Davis</p> 
+					<p>President</p>
+					<p>2018</p>
+				</div>
+			</div>
+
+		<!-- Izzi -->
 			<div class="profile-img">
 				<img src="{{ "assets/images/memberPictures/IzziHinks.jpg" | relative_url }}" alt="Isabella (Izzi) Hinks" />
 				<div class="profile-img-container">
@@ -269,16 +281,6 @@ author: null
 					<p>Grant Miller</p>
 					<p>Education Chair</p>
 					<p>2019</p>
-				</div>
-			</div>
-		
-		<!--Neil Davis-->
-			<div class="profile-img">
-				<img src="{{ "assets/images/memberPictures/NeilDavis.jpg" | relative_url }}" alt="Neil Davis" />
-				<div class="profile-img-container">
-					<p>Neil Davis</p> 
-					<p>President</p>
-					<p>2018</p>
 				</div>
 			</div>
 
