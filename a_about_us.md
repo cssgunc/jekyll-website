@@ -231,7 +231,7 @@ author: null
 
 		<section id="two" class="spotlights profiles">
 
-		
+		<!-- Izzi Hinks-->
 		<section class="profile-box">
 
 		<!--Neil Davis-->
