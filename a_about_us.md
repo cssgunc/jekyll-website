@@ -226,7 +226,7 @@ author: null
 
 		<section id="two" class="spotlights profiles">
 
-		<!-- Izzi -->
+		<!-- Izzi Hinks-->
 		<section class="profile-box">
 			<div class="profile-img">
 				<img src="{{ "assets/images/memberPictures/IzziHinks.jpg" | relative_url }}" alt="Isabella (Izzi) Hinks" />
