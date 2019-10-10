@@ -1,0 +1,22 @@
+{
+  "name": "jekyll-website",
+  "version": "1.0.0",
+  "description": "A Jekyll version of the \"Forty\" theme by [HTML5 UP](https://html5up.net/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unc-cs-sg/jekyll-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unc-cs-sg/jekyll-website/issues"
+  },
+  "homepage": "https://github.com/unc-cs-sg/jekyll-website#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
