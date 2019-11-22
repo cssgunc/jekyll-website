@@ -6,6 +6,8 @@ description: I attended the Grace Hopper Celebration for Women in Technology and
 permalink: /GHC19
 ---
 
+<img src="../assets/images/blogPics/GHC.JPG">
+
 I have never been more overwhelmed than I was during the first week of October while attending Grace Hopper in Orlando, Florida.  It was a long, hard week, but it was also one of the most rewarding experiences of my time in college.
 
 Grace Hopper is a celebration for female-identifying people in technology and computing.  The main features of the conference are sessions held by women who are experts in their field and passionate about promoting diversity in the technology industry.  Another main feature is the Career Fair, which is what inspired my comment about being overwhelmed.  There are hundreds of booths hosted by enormous tech companies, and thousands of young women are swarming around you, throwing elbows, trying to make eye contact with the three recruiters behind the table.  My main goal at the career fair was to collect as much free stuff as possible (and believe me, there’s a lot), but I ended up spending the majority of my time networking with recruiters and setting up interviews.  
