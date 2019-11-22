@@ -4,9 +4,8 @@ title: Grace Hopper 2019
 author: Natalie Russell
 description: I attended the Grace Hopper Celebration for Women in Technology and Computing. Here's how it went.
 permalink: /GHC19
+image: /assets/images/blogPics/GHC.JPG
 ---
-
-<img src="../assets/images/blogPics/GHC.JPG">
 
 I have never been more overwhelmed than I was during the first week of October while attending Grace Hopper in Orlando, Florida.  It was a long, hard week, but it was also one of the most rewarding experiences of my time in college.
 
