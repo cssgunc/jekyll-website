@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Carolina Cupboard Partnership"
-description: During the 2019 Spring Semester, CS+Social Good partnered with Carolina Cupboard to create a web application that manages the food pantry's inventory.  This application allows Carolina Cupboard to scan items into the inventory as they are donated, and delete items as they are claimed by visitors.
+description: During the 2019 Spring Semester, CS+Social Good partnered with Carolina Cupboard to create a web application that manages the food pantry's inventory.  This application allows Carolina Cupboard to scan items into the inventory as they are donated, and delete items as they are claimed by visitors.  Our work can be found at https://github.com/unc-cs-sg/carolinacupboard-inventory.
 author: Abby Brosnan
 image: /assets/images/cc_logo.png
 permalink: /CarolinaCupboardPartnership2018
