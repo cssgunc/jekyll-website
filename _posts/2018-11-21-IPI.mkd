@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Initiative on Poverty and Inequality Partnership"
 description: During the 2019 Spring Semester, CS+Social Good partnered with IPI to create a website, promoting their mission on UNC's campus.
