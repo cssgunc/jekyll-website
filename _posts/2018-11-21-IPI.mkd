@@ -1,12 +1,10 @@
 layout: post
 title: "Initiative on Poverty and Inequality Partnership"
-description: During the 2019 Spring Semester, CS+Social Good partnered with IPI to create a website, promoting their mission on UNC's campus.  Our work can be found at https://github.com/unc-cs-sg/IPI-Website.
+description: During the 2019 Spring Semester, CS+Social Good partnered with IPI to create a website, promoting their mission on UNC's campus.
 author: Abby Brosnan
 # image: 
-# permalink: 
+permalink: https://github.com/unc-cs-sg/IPI-Website.
 tags: partners
 categories: archive
 # image_left: True
 ---
-
-# [Carolina Cupboard](http://carolinacupboard.web.unc.edu/)
