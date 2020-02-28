@@ -56,25 +56,26 @@ author: null
 			</div>
 		</section>
 
-		<!-- Visrut -->
+		<!-- Jiselle -->
 		<section class="profile-box">
 			<div class="profile-img">
-				<img src="{{ "assets/images/memberPictures/VisrutSudhakar.jpg" | relative_url }}" alt="Visrut Sudhakar" />
+				<img src="{{ "assets/images/memberPictures/JiselleVellaringattu.jpg" | relative_url }}" alt="Jiselle Vellaringattu" />
 				<div class="profile-img-container">
-					<p>Visrut Sudhakar</p>
+					<p>Jiselle Vellaringattu</p>
 				</div>
 			</div>
 			<div class="profile-description">
-				<h1>Visrut Sudhakar</h1>
+				<h1>Jiselle Vellaringattu</h1>
 				<h2>Vice President</h2>
 				<p>
-					<span class='grad-date'>December 2019</span>,
-					B.S. in Computer Science, B.S. in Mathematics
+					<span class='grad-date'>May 2021</span>,
+					B.S. in Computer Science, B.A. in Global Studies, Minor in Statistics and Analytics
 				</p>
 				<h4>Why are you passionate about CS+SG?</h4>
-				<p>Self-proclaimed technologists and "startup heros" often proclaim their passion as inventing technologies to "change the world for the better". However, I firmly believe that a more useful strategy is to help existing organizations learn about and utilize freely-available technology in a manner which helps them achieve their ongoing missions. I also believe that through CS+Social Good we can help people understand how to take control of the digital tools in their lives, and in doing so move towards a world in which our devices respect our privacy, freedoms, and help us to achieve our goals.</p>
+				<p>CS+SG is an organization that I am proud to be a part of, as it connects my passions of social good, technology and education. I have been able to form relationships with hardworking individuals who are passionate about social good and with community organizations that are looking to make a difference in the world, which is incredibly exciting.</p>
 				<h4>Fun facts about me!</h4>
-				<p>I play the drums!</p>
+				<p>- I had an amazing experience studying abroad in Cusco, Peru! </p>
+				<p>- I love posting on my photo account, @jiselletells :) </p>
 			</div>
 		</section>
 
@@ -172,6 +173,28 @@ author: null
 			</div>
 		</section>
 
+		<!-- Lindsay Zhou -->
+		<section class="profile-box">
+			<div class="profile-img">
+				<img src="{{ "assets/images/memberPictures/LindsayZhou.jpg" | relative_url }}" alt="Lindsay Zhou" />
+				<div class="profile-img-container">
+					<p>Lindsay Zhou</p>
+				</div>
+			</div>
+			<div class="profile-description">
+				<h1>Lindsay Zhou</h1>
+				<h2>Technology Chair</h2>
+				<p>
+					<span class='grad-date'>May 2022</span>,
+					B.S. in Computer Science, B.A. in Linguistics, Minor in Japanese
+				</p>
+				<h4>Why are you passionate about CS+SG?</h4>
+				<p>I believe in taking a human-centric approach to technology, and I can think of no better way to do that than to create technology that directly benefits the community around me. CS+SG is an amazing outlet for both my creative and technical sides, and I especially love working with so many other people who are passionate about driving positive change.</p>
+				<h4>Fun facts about me!</h4>
+				<p> I'm a huge fan of hackathons, so I help out with organizing several of the hackathons at UNC. Outside of tech, I love writing, and I spend a lot of my free time on a novel I've been working on!</p>
+			</div>
+		</section>
+
 		<!-- Ella Carter -->
 		<section class="profile-box">
 			<div class="profile-img">
@@ -219,6 +242,28 @@ author: null
 				</ul>
 			</div>
 		</section>
+				
+		<!-- Yang Chen -->
+		<section class="profile-box">
+			<div class="profile-img">
+				<img src="{{ "assets/images/memberPictures/YangChen.jpeg" | relative_url }}" alt="Yang Chen" />
+				<div class="profile-img-container">
+					<p>Yang Chen</p>
+				</div>
+			</div>
+			<div class="profile-description">
+				<h1>Yang Chen</h1>
+				<h2>Past Project Manager</h2>
+				<p>
+					<span class='grad-date'>May 2022</span>,
+					B.S. in Computer Science, B.S. in Statistics, and Minor in Mathematics
+				</p>
+				<h4>Why are you passionate about CS+SG?</h4>
+				<p>It helps introduce fun, but impactful projects for a variety of students and teaches project management and technical skills.</p>
+				<h4>Fun facts about me!</h4>
+				<p>I like to practice meditation and yoga!</p>
+			</div>
+		</section>
 </section>
 
 		<section id="PastExec" class="profile-header">
@@ -233,6 +278,16 @@ author: null
 
 		<!-- Izzi Hinks-->
 		<section class="profile-box">
+
+		<!--Visrut-->
+		<div class="profile-img">
+				<img src="{{ "assets/images/memberPictures/VisrutSudhakar.jpg" | relative_url }}" alt="Visrut Sudhakar" />
+				<div class="profile-img-container">
+					<p>Visrut Sudhakar</p> 
+					<p>Vice President and Treasurer</p>
+					<p>2019</p>
+				</div>
+			</div>
 
 		<!--Neil Davis-->
 			<div class="profile-img">
