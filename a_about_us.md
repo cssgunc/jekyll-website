@@ -279,15 +279,6 @@ author: null
 		<!-- Izzi Hinks-->
 		<section class="profile-box">
 
-		<!--Visrut-->
-		<div class="profile-img">
-				<img src="{{ "assets/images/memberPictures/VisrutSudhakar.jpg" | relative_url }}" alt="Visrut Sudhakar" />
-				<div class="profile-img-container">
-					<p>Visrut Sudhakar</p> 
-					<p>Vice President and Treasurer</p>
-					<p>2019</p>
-				</div>
-			</div>
 
 		<!--Neil Davis-->
 			<div class="profile-img">
@@ -335,6 +326,16 @@ author: null
 				<div class="profile-img-container">
 					<p>Grant Miller</p>
 					<p>Education Chair</p>
+					<p>2019</p>
+				</div>
+			</div>
+
+		<!--Visrut-->
+		<div class="profile-img">
+				<img src="{{ "assets/images/memberPictures/VisrutSudhakar.jpg" | relative_url }}" alt="Visrut Sudhakar" />
+				<div class="profile-img-container">
+					<p>Visrut Sudhakar</p> 
+					<p>Vice President and Treasurer</p>
 					<p>2019</p>
 				</div>
 			</div>
