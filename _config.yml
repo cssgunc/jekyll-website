@@ -7,7 +7,7 @@ description: Through technology, we have the opportunity to be a part of positiv
 #baseurl: "/jekyll-website" # the subpath of your site, e.g. /blog
 baseurl: "/"
 #url: https://unc-cs-sg.github.io # the base hostname & protocol for your site
-url: https://unc-cssg.org
+url: https://cssgunc.org
 author:
 street_address: Box 205 Frank Porter Graham Student Union, UNC-CH Campus Box 5210
 city: Chapel Hill
@@ -23,7 +23,7 @@ tiles-count: 4
 # social settings
 500px_url:
 facebook_url: https://www.facebook.com/cssguncch/
-github_url: https://github.com/unc-cs-sg
+github_url: https://github.com/cssgunc
 gitlab_url:
 googleplus_url:
 instagram_url:
