@@ -39,7 +39,8 @@ nav-menu: true
 				</header>
 				<p>Are you interested in using technology to create social good? We are an organization for all students at UNC, both undergraduate and graduate students. We are looking for people who are eager to make a difference in their community and are ready to devote time to a cause that matters to them.</p>
 				<ul class="actions">
-					<li><a href="#" class="button special big">Applications Closed for the Semester</a></li>
+					<li><a href="https://forms.gle/2rScKxaWeMQPRrEn6" class="button special big" target="_blank">New Member Applications</a></li>
+					<li><a href="https://forms.gle/ZtnGAhRAEFeMaPag6" class="button special big" target="_blank">Executive Board Applications</a></li>
 				</ul>
 			</div>
 		</div>
