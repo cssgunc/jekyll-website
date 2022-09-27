@@ -63,7 +63,7 @@ author: null
 			</div>
 			<div class="profile-description">
 				<h1>Dheya Madhani</h1>
-				<h2>Tech Lead</h2>
+				<h2>Vice President</h2>
 				<p>
 					<span class='grad-date'>May 2024</span>,
 					B.S. in Computer Science, B.S. in Economics
