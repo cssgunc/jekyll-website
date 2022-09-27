@@ -10,31 +10,95 @@ author: null
 ---
 
 <div id="main" class="alt">
-
 <!-- One -->
-	<section id="Mission">
-		<div class="inner">
-			<header class="major">
-				<h2 id="Mission">Our mission: </h2>
-				<p>Our purpose is to foster discussions about how technology can be utilized to create a better world. In addition, we will work to advance the national organization’s mission: to empower a new generation of leaders working at the intersection of technology and social impact.</p>		
-				
-				<ul class="actions">
-					<li><a href="https://techshift.co/" class="button next scrolly">Find Out About TechShift</a></li>
-				</ul>
-			</header>
-		</div>
-	</section>
-	<!--<hr class="major" />-->
-	<section id="Exec" class="profile-header">
-		<div class="inner">
-			<header class="major">
-				<h2>Executive Members</h2>
-			</header>
-		</div>
-	</section>
-
+<section id="Mission">
+	<div class="inner">
+		<header class="major">
+			<h2 id="Mission">Our mission: </h2>
+			<p>Our purpose is to foster discussions about how technology can be utilized to create a better world. In addition, we will work to advance the national organization’s mission: to empower a new generation of leaders working at the intersection of technology and social impact.</p>		
+			
+			<ul class="actions">
+				<li><a href="https://techshift.co/" class="button next scrolly">Find Out About TechShift</a></li>
+			</ul>
+		</header>
+	</div>
+</section>
+<!--<hr class="major" />-->
+<section id="Exec" class="profile-header">
+	<div class="inner">
+		<header class="major">
+			<h2>Executive Members</h2>
+		</header>
+	</div>
+</section>
 	<section id="two" class="spotlights profiles">
-		<!-- Cassidy -->
+		<!-- Lucas -->
+		<section class="profile-box">
+			<div class="profile-img">
+				<img src="{{ "assets/images/memberPictures/LucasZhang.jpg" | relative_url }}" alt="Lucas Zhang" />
+				<div class="profile-img-container">
+					<p>Lucas Zhang</p>
+				</div>
+			</div>
+			<div class="profile-description">
+				<h1>Lucas Zhang</h1>
+				<h2>President</h2>
+				<p>
+					<span class='grad-date'>Dec 2022</span>,
+					B.S. in Computer Science, Minor in Data Science
+				</p>
+				<h4>Why are you passionate about CS+SG?</h4>
+				<p>
+				Coming soon!
+				</p>
+			</div>
+		</section>
+		<!-- Dheya -->
+		<section class="profile-box">
+			<div class="profile-img">
+				<img src="{{ "assets/images/memberPictures/DheyaMadhani.jpg" | relative_url }}" alt="Dheya Madhani" />
+				<div class="profile-img-container">
+					<p>Dheya Madhani</p>
+				</div>
+			</div>
+			<div class="profile-description">
+				<h1>Dheya Madhani</h1>
+				<h2>Tech Lead</h2>
+				<p>
+					<span class='grad-date'>May 2024</span>,
+					B.S. in Computer Science, B.S. in Economics
+				</p>
+				<h4>Why are you passionate about CS+SG?</h4>
+				<p>
+				Coming soon!
+				</p>
+			</div>
+		</section>
+		<!-- Ajay -->
+		<section class="profile-box">
+			<div class="profile-img">
+				<img src="{{ "assets/images/memberPictures/AjayGandecha.jpeg" | relative_url }}" alt="Ajay Gandecha" />
+				<div class="profile-img-container">
+					<p>Ajay Gandecha</p>
+				</div>
+			</div>
+			<div class="profile-description">
+				<h1>Ajay Gandecha</h1>
+				<h2>Education Lead</h2>
+				<p>
+					<span class='grad-date'>May 2025</span>,
+					B.S. in Computer Science, B.S. in Statistics & Analytics, Minor in Information Systems
+				</p>
+				<h4>Why are you passionate about CS+SG?</h4>
+				<p>
+					Technology plays such an integral role in our community and our everyday lives and has revolutionized how we live, learn, work, and connect. As Education Chair of CS+SG, I am able to act on my passion for computer science education to teach CS+SG members how to create technology that can be used as a source for good and as a tool to improve the human condition in our community. 
+				</p>
+			</div>
+		</section>
+	</section>
+	<!--
+	<section id="two" class="spotlights profiles">
+		<!-Cassidy->
 		<section class="profile-box">
 			<div class="profile-img">
 				<img src="{{ "assets/images/memberPictures/CassidySoutter2.jpg" | relative_url }}" alt="Cassidy Souter" />
@@ -55,8 +119,7 @@ author: null
 				<p>In my spare time, I like to listen to jazz, bake, knit and watch the Office.</p>
 			</div>
 		</section>
-
-		<!-- Jiselle -->
+		<!- Jiselle ->
 		<section class="profile-box">
 			<div class="profile-img">
 				<img src="{{ "assets/images/memberPictures/JiselleVellaringattu.jpg" | relative_url }}" alt="Jiselle Vellaringattu" />
@@ -78,8 +141,7 @@ author: null
 				<p>- I love posting on my photo account, @jiselletells :) </p>
 			</div>
 		</section>
-
-		<!-- Abby Brosnan-->
+		<!- Abby Brosnan->
 		<section class="profile-box">
 			<div class="profile-img">
 				<img src="{{ "assets/images/memberPictures/AbbyBrosnan.jpeg" | relative_url }}" alt="Abby Brosnan" />
@@ -100,8 +162,7 @@ author: null
 				<p>I've been skydiving!</p>
 			</div>
 		</section>
-
-		<!-- Savannah Evans -->
+		<!- Savannah Evans ->
 		<section class="profile-box">
 			<div class="profile-img">
 				<img src="{{ "assets/images/memberPictures/SavannahEvans.jpeg" | relative_url }}" alt="Savannah Evans" />
@@ -124,8 +185,7 @@ author: null
 				<li> Favorite things: Snickers, A24 movies, Oxford commas, UX design, my cat George, Timothee Chalamet</li>
 			</div>
 		</section>
-
-		<!-- Austin Wang-->
+		<!- Austin Wang->
 		<section class="profile-box">
 			<div class="profile-img">
 				<img src="{{ "assets/images/memberPictures/AustinWang.jpg" | relative_url }}" alt="Austin Wang" />
@@ -152,8 +212,7 @@ author: null
 				</ul>
 			</div>
 		</section>
-
-		<!-- Nick Day -->
+		<!- Nick Day ->
 		<section class="profile-box">
 			<div class="profile-img">
 				<img src="{{ "assets/images/memberPictures/NickDay.jpg" | relative_url }}" alt="Nicholas Day" />
@@ -172,8 +231,7 @@ author: null
 				<p>I love helping the community and working on technical projects. </p>
 			</div>
 		</section>
-
-		<!-- Lindsay Zhou -->
+		<!- Lindsay Zhou ->
 		<section class="profile-box">
 			<div class="profile-img">
 				<img src="{{ "assets/images/memberPictures/LindsayZhou.jpg" | relative_url }}" alt="Lindsay Zhou" />
@@ -194,8 +252,7 @@ author: null
 				<p> I'm a huge fan of hackathons, so I help out with organizing several of the hackathons at UNC. Outside of tech, I love writing, and I spend a lot of my free time on a novel I've been working on!</p>
 			</div>
 		</section>
-
-		<!-- Ella Carter -->
+		<!- Ella Carter ->
 		<section class="profile-box">
 			<div class="profile-img">
 				<img src="{{ "assets/images/memberPictures/EllaCarter.png" | relative_url }}" alt="Ella Carter" />
@@ -216,8 +273,7 @@ author: null
 				<p> I took a gap year and worked for the National Park Service in St. Louis. During that internship, my car got stolen twice in three days and totaled. A toy version of my car is now on my keychain. </p>
 			</div>
 		</section>
-
-		<!-- Nikhil Vytla -->
+		<!- Nikhil Vytla ->
 		<section class="profile-box">
 			<div class="profile-img">
 				<img src="{{ "assets/images/memberPictures/NikhilVytla.jpg" | relative_url }}" alt="Nikhil Vytla" />
@@ -242,8 +298,7 @@ author: null
 				</ul>
 			</div>
 		</section>
-				
-		<!-- Yang Chen -->
+		<!- Yang Chen ->
 		<section class="profile-box">
 			<div class="profile-img">
 				<img src="{{ "assets/images/memberPictures/YangChen.jpeg" | relative_url }}" alt="Yang Chen" />
@@ -264,107 +319,128 @@ author: null
 				<p>I like to practice meditation and yoga!</p>
 			</div>
 		</section>
+</section>-->
+
+<section id="PastExec" class="profile-header">
+	<div class="inner">
+		<header class="major">
+			<h2>Past Executive Members</h2>
+		</header>
+	</div>
 </section>
 
-		<section id="PastExec" class="profile-header">
-			<div class="inner">
-				<header class="major">
-					<h2>Past Executive Members</h2>
-				</header>
-			</div>
-		</section>
+<section id="two" class="spotlights profiles">
+<div class="row 200%">
+    <div class="6u 12u$(medium)">
+		<ul>
+			<li><strong>Lindsay Zhou</strong> | <i>President (2021)</i></li>
+			<li><strong>Jiselle Vellaringattu</strong> | <i>Vice President (2021)</i></li>
+			<li><strong>Cassidy Soutter</strong> | <i>President (2020)</i></li>
+			<li><strong>Neil Davis</strong> | <i>President (2018)</i></li>
+			<li><strong>Abby Brosnan</strong> | <i>Outreach Coordinator</i></li>
+			<li><strong>Austin Wang</strong> | <i>Technology Chair</i></li>
+			<li><strong>Nick Day</strong> | <i>Technology Chair</i></li>
+			<li><strong>Ella Carter</strong> | <i>Project Manager</i></li>
+		</ul>
+    </div>
+    <div class="6u 12u$(medium)">
+		<ul>
+			<li><strong>Nikhil Vytla</strong> | <i>Project Manager</i></li>
+			<li><strong>Yang Chen</strong> | <i>Project Manager</i></li>
+			<li><strong>Isabella Hinks</strong> | <i>Project Coordinator</i></li>
+			<li><strong>Timothy Lo</strong> | <i>Treasurer</i></li>
+			<li><strong>Armaan Sethi</strong> | <i>Events Coordinator</i></li>
+			<li><strong>Chiazo Agina</strong> | <i>Education Chair</i></li>
+			<li><strong>Grant Miller</strong> | <i>Education Chair</i></li>
+		</ul>
+    </div>
+</div>
+</section>
 
-		<section id="two" class="spotlights profiles">
 
-		<!-- Izzi Hinks-->
-		<section class="profile-box">
-
-
-		<!--Neil Davis-->
-			<div class="profile-img">
-				<img src="{{ "assets/images/memberPictures/NeilDavis.jpg" | relative_url }}" alt="Neil Davis" />
-				<div class="profile-img-container">
-					<p>Neil Davis</p> 
-					<p>President</p>
-					<p>2018</p>
-				</div>
-			</div>
-
-		<!-- Izzi -->
-			<div class="profile-img">
-				<img src="{{ "assets/images/memberPictures/IzziHinks.jpg" | relative_url }}" alt="Isabella (Izzi) Hinks" />
-				<div class="profile-img-container">
-					<p>Isabella (Izzi) Hinks</p> 
-					<p>Project Coordinator</p>
-					<p>2018</p>
-				</div>
-			</div>
-
-		<!-- Tim -->
-			<div class="profile-img">
-				<img src="{{ "assets/images/memberPictures/TimothyLo.JPG" | relative_url }}" alt="Timothy Lo" />
-				<div class="profile-img-container">
-					<p>Timothy Lo</p>
-					<p>Treasurer</p>
-					<p>2018</p>
-				</div>
-			</div>
-
-		<!--Armaan-->
-			<div class="profile-img">
-				<img src="{{ "assets/images/memberPictures/ArmaanSethi.jpg" | relative_url }}" alt="Armaan Sethi" />
-				<div class="profile-img-container">
-					<p>Armaan Sethi</p>
-					<p>Events Coordinator</p>
-					<p>2018-2019</p>
-				</div>
-			</div>
-
-		<!--Grant-->
-			<div class="profile-img">
-				<img src="{{ "assets/images/memberPictures/GrantMiller.jpg" | relative_url }}" alt="Grant Miller" />
-				<div class="profile-img-container">
-					<p>Grant Miller</p>
-					<p>Education Chair</p>
-					<p>2019</p>
-				</div>
-			</div>
-
-		<!--Visrut-->
+<!--<section id="two" class="spotlights profiles">
+	<!- Izzi Hinks->
+	<section class="profile-box">
+	<!-Neil Davis->
 		<div class="profile-img">
-				<img src="{{ "assets/images/memberPictures/VisrutSudhakar.jpg" | relative_url }}" alt="Visrut Sudhakar" />
-				<div class="profile-img-container">
-					<p>Visrut Sudhakar</p> 
-					<p>Vice President and Treasurer</p>
-					<p>2019</p>
-				</div>
-			</div>
-
-		</section>
-
-	</section>
-	<!-- <section id="Member">
-		<div class="inner">
-			<header class="major">
-				<h2>Our Members</h2>
-			</header>
-			<span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span>
-			<div class="box alt">
-				<div class="row 50% uniform">
-					<div class="4u"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
-					<div class="4u"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
-					<div class="4u$"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
-
-					<div class="4u"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
-					<div class="4u"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
-					<div class="4u$"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
-
-					<div class="4u"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
-					<div class="4u"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
-					<div class="4u$"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
-				</div>
+			<img src="{{ "assets/images/memberPictures/NeilDavis.jpg" | relative_url }}" alt="Neil Davis" />
+			<div class="profile-img-container">
+				<p>Neil Davis</p> 
+				<p>President</p>
+				<p>2018</p>
 			</div>
 		</div>
+	<!- Izzi ->
+		<div class="profile-img">
+			<img src="{{ "assets/images/memberPictures/IzziHinks.jpg" | relative_url }}" alt="Isabella (Izzi) Hinks" />
+			<div class="profile-img-container">
+				<p>Isabella (Izzi) Hinks</p> 
+				<p>Project Coordinator</p>
+				<p>2018</p>
+			</div>
+		</div>
+	<!- Tim ->
+		<div class="profile-img">
+			<img src="{{ "assets/images/memberPictures/TimothyLo.JPG" | relative_url }}" alt="Timothy Lo" />
+			<div class="profile-img-container">
+				<p>Timothy Lo</p>
+				<p>Treasurer</p>
+				<p>2018</p>
+			</div>
+		</div>
+	<!-Armaan->
+		<div class="profile-img">
+			<img src="{{ "assets/images/memberPictures/ArmaanSethi.jpg" | relative_url }}" alt="Armaan Sethi" />
+			<div class="profile-img-container">
+				<p>Armaan Sethi</p>
+				<p>Events Coordinator</p>
+				<p>2018-2019</p>
+			</div>
+		</div>
+	<!-Grant->
+		<div class="profile-img">
+			<img src="{{ "assets/images/memberPictures/GrantMiller.jpg" | relative_url }}" alt="Grant Miller" />
+			<div class="profile-img-container">
+				<p>Grant Miller</p>
+				<p>Education Chair</p>
+				<p>2019</p>
+			</div>
+		</div>
+	<!-Visrut->
+	<div class="profile-img">
+			<img src="{{ "assets/images/memberPictures/VisrutSudhakar.jpg" | relative_url }}" alt="Visrut Sudhakar" />
+			<div class="profile-img-container">
+				<p>Visrut Sudhakar</p> 
+				<p>Vice President and Treasurer</p>
+				<p>2019</p>
+			</div>
+		</div>
+	</section>
+</section>
+-->
+
+<!-- <section id="Member">
+	<div class="inner">
+		<header class="major">
+			<h2>Our Members</h2>
+		</header>
+		<span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span>
+		<div class="box alt">
+			<div class="row 50% uniform">
+				<div class="4u"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
+				<div class="4u"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
+				<div class="4u$"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
+
+				<div class="4u"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
+				<div class="4u"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
+				<div class="4u$"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
+
+				<div class="4u"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
+				<div class="4u"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
+				<div class="4u$"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
+			</div>
+		</div>
+	</div>
 	</section> -->
 
 
