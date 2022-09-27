@@ -56,7 +56,7 @@ author: null
 		<!-- Dheya -->
 		<section class="profile-box">
 			<div class="profile-img">
-				<img src="{{ "assets/images/memberPictures/DheyaMadhani.jpg" | relative_url }}" alt="Dheya Madhani" />
+				<img src="{{ "assets/images/memberPictures/DheyaMadhani.png" | relative_url }}" alt="Dheya Madhani" />
 				<div class="profile-img-container">
 					<p>Dheya Madhani</p>
 				</div>
@@ -77,7 +77,7 @@ author: null
 		<!-- Ajay -->
 		<section class="profile-box">
 			<div class="profile-img">
-				<img src="{{ "assets/images/memberPictures/AjayGandecha.jpeg" | relative_url }}" alt="Ajay Gandecha" />
+				<img src="{{ "assets/images/memberPictures/AjayGandecha.png" | relative_url }}" alt="Ajay Gandecha" />
 				<div class="profile-img-container">
 					<p>Ajay Gandecha</p>
 				</div>
