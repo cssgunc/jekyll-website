@@ -81,7 +81,10 @@ There will also be <strong>guest lectures</strong> scattered throughout the seme
             <div class="6u 12u$(medium)">
                 <h4>Lesson Project</h4>
                 <ul class="actions">
-                    <li><a href="" class="button" style="pointer-events: none">Personal Portfolio</a></li>
+                    <li><a href="" class="button" style="pointer-events: none">Coming Soon</a></li>
+                    <!--
+                    <li><a href="" class="button">Personal Portfolio</a></li>
+                    -->
                 </ul>
             </div>
         </div>
