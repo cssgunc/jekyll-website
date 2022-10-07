@@ -63,7 +63,7 @@ There will also be <strong>guest lectures</strong> scattered throughout the seme
 <div class="row 200%">
     <div class="6u 12u$(medium)">
         <h4>Lesson Video</h4>
-        <iframe width="560" height="315" src="https://youtu.be/e4qJeKNswX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/e4qJeKNswX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div class="6u 12u$(medium)">
         <h4>Description</h4>
