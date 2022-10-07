@@ -63,7 +63,7 @@ There will also be <strong>guest lectures</strong> scattered throughout the seme
 <div class="row 200%">
     <div class="6u 12u$(medium)">
         <h4>Lesson Video</h4>
-        <iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://youtu.be/e4qJeKNswX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div class="6u 12u$(medium)">
         <h4>Description</h4>
@@ -74,223 +74,20 @@ There will also be <strong>guest lectures</strong> scattered throughout the seme
             <div class="6u 12u$(medium)">
             <h4>Skills Covered</h4>
             <ul>
-                <li>HTML and CSS.</li>
-                <li>Creating and rendering .html files in the browser.</li>
+                <li>HTML to structure webpages.</li>
+                <li>CSS to style webpages.</li>
             </ul>
             </div>
             <div class="6u 12u$(medium)">
                 <h4>Lesson Project</h4>
                 <ul class="actions">
-                    <li><a href="" class="button">Personal Portfolio</a></li>
+                    <li><a href="" class="button" style="pointer-events: none">Personal Portfolio</a></li>
                 </ul>
             </div>
         </div>
     </div>
 </div>
-
-<a class="anchor" id="lesson1"></a>
-<h3>Lesson 1: JavaScript Crash Course pt.1</h3>
-
-<div class="row 200%">
-    <div class="6u 12u$(medium)">
-        <h4>Lesson Video</h4>
-        <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/tBy5v5zIs20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
-        <iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-    </div>
-    <div class="6u 12u$(medium)">
-        <h4>Description</h4>
-        <p>
-            The purpose of this lesson is to introduce students to the JavaScript programming language. JavaScript is an extremely versatile and powerful language and is the main language that CSSG uses in their client projects.
-        </p>
-        <div class="row 200%">
-            <div class="6u 12u$(medium)">
-            <h4>Skills Covered</h4>
-            <ul>
-                <li>Navigating VS Code.</li>
-                <li>Creating variables.</li>
-                <li>Outputting information.</li>
-                <li>Boolean operators.</li>
-                <li>Writing functions. </li>
-            </ul>
-            </div>
-            <div class="6u 12u$(medium)">
-                <h4>Lesson Project</h4>
-                <ul class="actions">
-                    <li><a href="" class="button">JS Functions</a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</div>
-
-<a class="anchor" id="lesson2"></a>
-<h3>Lesson 2: JavaScript Crash Course pt.2</h3>
-
-<div class="row 200%">
-    <div class="6u 12u$(medium)">
-        <h4>Lesson Video</h4>
-         <iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-    <div class="6u 12u$(medium)">
-        <h4>Description</h4>
-        <p>
-            The purpose of this lesson is to bridge the gap between the first JavaScript crash course and working on developing apps with React Native. Intermediate JavaScript skills are reinforced.
-        </p>
-        <div class="row 200%">
-            <div class="6u 12u$(medium)">
-            <h4>Skills Covered</h4>
-            <ul>
-                <li>Arrow functions.</li>
-                <li>Intro to JSON.</li>
-                <li>Intro to JSX.</li>
-                <li>Adding functionality.</li>
-            </ul>
-            </div>
-            <div class="6u 12u$(medium)">
-                <h4>Lesson Project</h4>
-                <ul class="actions">
-                    <li><a href="" class="button">Working with GitHub</a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</div>
-
-<a class="anchor" id="lesson3"></a>
-<h3>Lesson 3: Introduction to React.js</h3>
-
-<div class="row 200%">
-    <div class="6u 12u$(medium)">
-        <h4>Lesson Video</h4>
-         <iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-    <div class="6u 12u$(medium)">
-        <h4>Description</h4>
-        <p>
-            The purpose of this lesson is to introduce students to React. React is a framework for developing high-quality web apps. CSSG uses React as the primary technology for developing their projects.
-        </p>
-        <div class="row 200%">
-            <div class="6u 12u$(medium)">
-            <h4>Skills Covered</h4>
-            <ul>
-                <li>Intro to React.</li>
-                <li>Creating an App.</li>
-                <li>Running an App.</li>
-                <li>Exploring App.js.</li>
-            </ul>
-            </div>
-            <div class="6u 12u$(medium)">
-                <h4>Lesson Project</h4>
-                <ul class="actions">
-                    <li><a href="" class="button">First React App</a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</div>
-
-<a class="anchor" id="lesson4"></a>
-<h3>Lesson 4: React Hooks and Event Handling</h3>
-
-<div class="row 200%">
-    <div class="6u 12u$(medium)">
-        <h4>Lesson Video</h4>
-         <iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-    <div class="6u 12u$(medium)">
-        <h4>Description</h4>
-        <p>
-            The purpose of this lesson is to introduce students to React Hooks and states. In addition, students will learn how to connect components to JavaScript functions to add functionality to their websites.
-        </p>
-        <div class="row 200%">
-            <div class="6u 12u$(medium)">
-            <h4>Skills Covered</h4>
-            <ul>
-                <li>React hooks.</li>
-                <li>React states.</li>
-                <li>Event handling.</li>
-            </ul>
-            </div>
-            <div class="6u 12u$(medium)">
-                <h4>Lesson Project</h4>
-                <ul class="actions">
-                    <li><a href="" class="button">Adding Functionality</a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</div>
-
-<a class="anchor" id="lesson5"></a>
-<h3>Lesson 5: Fetching Data Asynchronously</h3>
-
-<div class="row 200%">
-    <div class="6u 12u$(medium)">
-        <h4>Lesson Video</h4>
-         <iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-    <div class="6u 12u$(medium)">
-        <h4>Description</h4>
-        <p>
-            The purpose of this lesson is to introduce the concept of APIs to students and implement functionality to their apps to fetch data from the internet.
-        </p>
-        <div class="row 200%">
-            <div class="6u 12u$(medium)">
-            <h4>Skills Covered</h4>
-            <ul>
-                <li>Fetching data.</li>
-                <li>Learn about HTTP.</li>
-                <li>Ternary Expressions.</li>
-                <li>React Hooks.</li>
-            </ul>
-            </div>
-            <div class="6u 12u$(medium)">
-                <h4>Lesson Project</h4>
-                <ul class="actions">
-                    <li><a href="" class="button">Adding Functionality</a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</div>
-
-
-<a class="anchor" id="lesson6"></a>
-<h3>Lesson 6: Firebase Crash Course</h3>
-
-<div class="row 200%">
-    <div class="6u 12u$(medium)">
-        <h4>Lesson Video</h4>
-         <iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-    <div class="6u 12u$(medium)">
-        <h4>Description</h4>
-        <p>
-            The purpose of this lesson is to introduce students to Firebase. Firebase is a powerful, lightweight, and scalable cloud database platform that will allow us to add incredible functionality to our apps.
-        </p>
-        <div class="row 200%">
-            <div class="6u 12u$(medium)">
-            <h4>Skills Covered</h4>
-            <ul>
-                <li>Recall JSON.</li>
-                <li>Add Firebase to a project.</li>
-                <li>Firebase Firestore.</li>
-                <li>Firebase Authentication.</li>
-            </ul>
-            </div>
-            <div class="6u 12u$(medium)">
-                <h4>Lesson Project</h4>
-                <ul class="actions">
-                    <li><a href="" class="button">Final Project</a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</div>
-
 
 </div>
 </section>
-
 </div>
