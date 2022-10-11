@@ -83,7 +83,7 @@ There will also be <strong>guest lectures</strong> scattered throughout the seme
                 <ul class="actions">
                     <li><a href="https://classroom.github.com/a/tA-AzbqU" class="button">Personal Portfolio</a></li>
                 </ul>
-                <p><a href="https://github.com/cssgunc/edu-p01-demo/blob/main/README.md">DEMO Version Here</a></p>
+                <p><a href="https://github.com/cssgunc/edu-p01-demo">DEMO Version Here</a></p>
             </div>
         </div>
     </div>
