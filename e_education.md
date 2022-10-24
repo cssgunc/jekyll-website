@@ -49,11 +49,11 @@ There will also be <strong>guest lectures</strong> scattered throughout the seme
 <strong>Table of Contents:</strong>
 <ul>
     <li><a href="#lesson0">Lesson 0: HTML and CSS Fundamentals</a></li>
-    <li><a href="#lesson1">Lesson 1: JavaScript Crash Course pt.1</a></li>
-    <li><a href="#lesson2">Lesson 2: JavaScript Crash Course pt.2</a></li>
-    <li><a href="#lesson3">Lesson 3: Introduction to React.js</a></li>
-    <li><a href="#lesson4">Lesson 4: React Hooks and Event Handling</a></li>
-    <li><a href="#lesson5">Lesson 5: Fetching Data Asynchronously</a></li>
+    <li><a href="#lesson1">Lesson 1: Styling Websites using CSS</a></li>
+    <li><a href="#lesson2">Lesson 2: JavaScript Crash Course pt.1</a></li>
+    <li><a href="#lesson3">Lesson 3: JavaScript Crash Course pt.2</a></li>
+    <li><a href="#lesson4">Lesson 4: Introduction to React.js</a></li>
+    <li><a href="#lesson5">Lesson 5: React Hooks and Event Handling</a></li>
     <li><a href="#lesson6">Lesson 6: Firebase Crash Course</a></li>
 </ul>
 
@@ -88,6 +88,35 @@ There will also be <strong>guest lectures</strong> scattered throughout the seme
         </div>
     </div>
 </div>
+
+<a class="anchor" id="lesson1"></a>
+<h3>Lesson 1: Styling Webpages with CSS</h3>
+
+<div class="row 200%">
+    <div class="6u 12u$(medium)">
+        <h4>Lesson Video</h4>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/E5JeOlIk88k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="6u 12u$(medium)">
+        <h4>Description</h4>
+        <p>
+        The purpose of this lesson is to provide a practical example of using CSS to style a website built solely in HTML.
+        </p>
+        <div class="row 200%">
+            <div class="6u 12u$(medium)">
+            <h4>Skills Covered</h4>
+            <ul>
+                <li>CSS to style webpages.</li>
+            </ul>
+            </div>
+            <div class="6u 12u$(medium)">
+                <h4>Lesson Project</h4>
+                <p>Continue on p01.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
 
 </div>
 </section>
