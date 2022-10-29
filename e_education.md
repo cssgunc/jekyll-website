@@ -118,6 +118,35 @@ There will also be <strong>guest lectures</strong> scattered throughout the seme
 </div>
 
 
+<a class="anchor" id="lesson2"></a>
+<h3>Lesson 2: Fundamentals of JavaScript</h3>
+
+<div class="row 200%">
+    <div class="6u 12u$(medium)">
+        <h4>Lesson Video</h4>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/twJ11qGUeKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="6u 12u$(medium)">
+        <h4>Description</h4>
+        <p>
+        The purpose of this lesson is to introduce the JavaScript programming language, comparing the language's syntax to more familiar languages. 
+        </p>
+        <div class="row 200%">
+            <div class="6u 12u$(medium)">
+            <h4>Skills Covered</h4>
+            <ul>
+                <li>JavaScript syntax.</li>
+            </ul>
+            </div>
+            <div class="6u 12u$(medium)">
+                <h4>Lesson Project</h4>
+                <p>p02 Coming Soon</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+
 </div>
 </section>
 </div>
