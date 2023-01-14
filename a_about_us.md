@@ -333,10 +333,11 @@ author: null
 <div class="row 200%">
     <div class="6u 12u$(medium)">
 		<ul>
-			<li><strong>Lindsay Zhou</strong> | <i>President (2021)</i></li>
-			<li><strong>Jiselle Vellaringattu</strong> | <i>Vice President (2021)</i></li>
-			<li><strong>Cassidy Soutter</strong> | <i>President (2020)</i></li>
-			<li><strong>Neil Davis</strong> | <i>President (2018)</i></li>
+			<li><strong>Lucas Zhang</strong> | <i>President</i></li>
+			<li><strong>Lindsay Zhou</strong> | <i>President</i></li>
+			<li><strong>Jiselle Vellaringattu</strong> | <i>Vice President</i></li>
+			<li><strong>Cassidy Soutter</strong> | <i>President</i></li>
+			<li><strong>Neil Davis</strong> | <i>President</i></li>
 			<li><strong>Abby Brosnan</strong> | <i>Outreach Coordinator</i></li>
 			<li><strong>Austin Wang</strong> | <i>Technology Chair</i></li>
 			<li><strong>Nick Day</strong> | <i>Technology Chair</i></li>
@@ -345,7 +346,8 @@ author: null
     </div>
     <div class="6u 12u$(medium)">
 		<ul>
-			<li><strong>Nikhil Vytla</strong> | <i>Project Manager</i></li>
+			<li><strong>Ajay Gandecha</strong> | <i>Education Chair</i></li>
+			<li><strong>Nikhil Vytla</strong> | <i>President</i></li>
 			<li><strong>Yang Chen</strong> | <i>Project Manager</i></li>
 			<li><strong>Isabella Hinks</strong> | <i>Project Coordinator</i></li>
 			<li><strong>Timothy Lo</strong> | <i>Treasurer</i></li>
