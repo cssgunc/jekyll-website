@@ -33,7 +33,7 @@ author: null
 </section>
 	<section id="two" class="spotlights profiles">
 		<!-- Lucas -->
-		<section class="profile-box">
+		<!-- <section class="profile-box">
 			<div class="profile-img">
 				<img src="{{ "assets/images/memberPictures/LucasZhang.jpg" | relative_url }}" alt="Lucas Zhang" />
 				<div class="profile-img-container">
@@ -52,7 +52,7 @@ author: null
 				Coming soon!
 				</p>
 			</div>
-		</section>
+		</section> -->
 		<!-- Dheya -->
 		<section class="profile-box">
 			<div class="profile-img">
@@ -63,7 +63,7 @@ author: null
 			</div>
 			<div class="profile-description">
 				<h1>Dheya Madhani</h1>
-				<h2>Vice President</h2>
+				<h2>President</h2>
 				<p>
 					<span class='grad-date'>May 2024</span>,
 					B.S. in Computer Science, B.S. in Economics
@@ -75,7 +75,7 @@ author: null
 			</div>
 		</section>
 		<!-- Ajay -->
-		<section class="profile-box">
+		<!-- <section class="profile-box">
 			<div class="profile-img">
 				<img src="{{ "assets/images/memberPictures/AjayGandecha.png" | relative_url }}" alt="Ajay Gandecha" />
 				<div class="profile-img-container">
@@ -94,7 +94,7 @@ author: null
 					Technology plays such an integral role in our community and our everyday lives and has revolutionized how we live, learn, work, and connect. As Education Chair of CS+SG, I am able to act on my passion for computer science education to teach CS+SG members how to create technology that can be used as a source for good and as a tool to improve the human condition in our community. 
 				</p>
 			</div>
-		</section>
+		</section> -->
 	</section>
 	<!--
 	<section id="two" class="spotlights profiles">
