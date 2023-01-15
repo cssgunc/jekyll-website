@@ -334,12 +334,15 @@ author: null
     <div class="6u 12u$(medium)">
 		<ul>
 			<li><strong>Lucas Zhang</strong> | <i>President</i></li>
+			<li><strong>Ashna Shukla</strong> | <i>Vice President</i></li>
+			<li><strong>Pranith Koppula</strong> | <i>Tech Lead</i></li>
+			<li><strong>Nick Belk</strong> | <i>Treasurer</i></li>
 			<li><strong>Lindsay Zhou</strong> | <i>President</i></li>
 			<li><strong>Jiselle Vellaringattu</strong> | <i>Vice President</i></li>
+			<li><strong>Austin Wang</strong> | <i>President</i></li>
 			<li><strong>Cassidy Soutter</strong> | <i>President</i></li>
 			<li><strong>Neil Davis</strong> | <i>President</i></li>
 			<li><strong>Abby Brosnan</strong> | <i>Outreach Coordinator</i></li>
-			<li><strong>Austin Wang</strong> | <i>Technology Chair</i></li>
 			<li><strong>Nick Day</strong> | <i>Technology Chair</i></li>
 			<li><strong>Ella Carter</strong> | <i>Project Manager</i></li>
 		</ul>
@@ -347,7 +350,11 @@ author: null
     <div class="6u 12u$(medium)">
 		<ul>
 			<li><strong>Ajay Gandecha</strong> | <i>Education Chair</i></li>
+			<li><strong>Sameer Rao</strong> | <i>Project Manager</i></li>
+			<li><strong>Adam Winek</strong> | <i>Tech Lead</i></li>
+			<li><strong>Christy Ming</strong> | <i>Project Manager</i></li>
 			<li><strong>Nikhil Vytla</strong> | <i>President</i></li>
+			<li><strong>Amit Min</strong> | <i>Tech Lead</i></li>
 			<li><strong>Yang Chen</strong> | <i>Project Manager</i></li>
 			<li><strong>Isabella Hinks</strong> | <i>Project Coordinator</i></li>
 			<li><strong>Timothy Lo</strong> | <i>Treasurer</i></li>
