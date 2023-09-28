@@ -32,27 +32,27 @@ author: null
 	</div>
 </section>
 	<section id="two" class="spotlights profiles">
-		<!-- Lucas -->
-		<!-- <section class="profile-box">
+		<!-- Brianna -->
+		<section class="profile-box">
 			<div class="profile-img">
-				<img src="{{ "assets/images/memberPictures/LucasZhang.jpg" | relative_url }}" alt="Lucas Zhang" />
+				<img src="{{ "assets/images/memberPictures/BriannaTa.jpg" | relative_url }}" alt="Brianna Ta" />
 				<div class="profile-img-container">
-					<p>Lucas Zhang</p>
+					<p>Brianna Ta</p>
 				</div>
 			</div>
 			<div class="profile-description">
-				<h1>Lucas Zhang</h1>
+				<h1>Brianna Ta</h1>
 				<h2>President</h2>
 				<p>
-					<span class='grad-date'>Dec 2022</span>,
+					<span class='grad-date'>May 2024</span>,
 					B.S. in Computer Science, Minor in Data Science
 				</p>
-				<h4>Why are you passionate about CS+SG?</h4>
+				<h4>What is something you are looking forward to for this semester on CSSG?</h4>
 				<p>
-				Coming soon!
+				I'm really excited to see how our new social good projects progress over the semester! I'm also looking forward to having some great events with free food.
 				</p>
 			</div>
-		</section> -->
+		</section>
 		<!-- Dheya -->
 		<section class="profile-box">
 			<div class="profile-img">
@@ -68,259 +68,182 @@ author: null
 					<span class='grad-date'>May 2024</span>,
 					B.S. in Computer Science, B.S. in Economics
 				</p>
-				<h4>Why are you passionate about CS+SG?</h4>
+				<h4>What is something you are looking forward to for this semester on CSSG?</h4>
 				<p>
 				Coming soon!
 				</p>
 			</div>
 		</section>
-		<!-- Ajay -->
-		<!-- <section class="profile-box">
-			<div class="profile-img">
-				<img src="{{ "assets/images/memberPictures/AjayGandecha.png" | relative_url }}" alt="Ajay Gandecha" />
-				<div class="profile-img-container">
-					<p>Ajay Gandecha</p>
-				</div>
-			</div>
-			<div class="profile-description">
-				<h1>Ajay Gandecha</h1>
-				<h2>Education Lead</h2>
-				<p>
-					<span class='grad-date'>May 2025</span>,
-					B.S. in Computer Science, B.S. in Statistics & Analytics, Minor in Information Systems
-				</p>
-				<h4>Why are you passionate about CS+SG?</h4>
-				<p>
-					Technology plays such an integral role in our community and our everyday lives and has revolutionized how we live, learn, work, and connect. As Education Chair of CS+SG, I am able to act on my passion for computer science education to teach CS+SG members how to create technology that can be used as a source for good and as a tool to improve the human condition in our community. 
-				</p>
-			</div>
-		</section> -->
-	</section>
-	<!--
-	<section id="two" class="spotlights profiles">
-		<!-Cassidy->
+		<!-- Yashu -->
 		<section class="profile-box">
 			<div class="profile-img">
-				<img src="{{ "assets/images/memberPictures/CassidySoutter2.jpg" | relative_url }}" alt="Cassidy Souter" />
+				<img src="{{ "assets/images/memberPictures/YashuSinghai.jpg" | relative_url }}" alt="Yashu Singhai" />
 				<div class="profile-img-container">
-					<p>Cassidy Soutter</p>
+					<p>Yashu Singhai</p>
 				</div>
 			</div>
 			<div class="profile-description">
-				<h1>Cassidy Soutter</h1>
-				<h2>President</h2>
+				<h1>Yashu Singhai</h1>
+				<h2>Treasurer</h2>
 				<p>
-					<span class='grad-date'>May 2020</span>,
-					B.S. in Computer Science, Minor in Information Systems, Minor in Spanish for the Professions
-				</p>
-				<h4>Why are you passionate about CS+SG?</h4>
-				<p>Technology is one of the most powerful tools that we have widespread access to as a society. As we continue to develop its possibilities, it is important that we understand the repercussions of our actions and find a way to use tech to help create social good. I hope that CS+SG will be a start for us, as a community, to make a positive impact on the people around us and help to develop a healthier relationship with the way we use computer science for good.</p>
-				<h4>Fun facts about me!</h4>
-				<p>In my spare time, I like to listen to jazz, bake, knit and watch the Office.</p>
-			</div>
-		</section>
-		<!- Jiselle ->
-		<section class="profile-box">
-			<div class="profile-img">
-				<img src="{{ "assets/images/memberPictures/JiselleVellaringattu.jpg" | relative_url }}" alt="Jiselle Vellaringattu" />
-				<div class="profile-img-container">
-					<p>Jiselle Vellaringattu</p>
-				</div>
-			</div>
-			<div class="profile-description">
-				<h1>Jiselle Vellaringattu</h1>
-				<h2>Vice President</h2>
-				<p>
-					<span class='grad-date'>May 2021</span>,
-					B.S. in Computer Science, B.A. in Global Studies, Minor in Statistics and Analytics
-				</p>
-				<h4>Why are you passionate about CS+SG?</h4>
-				<p>CS+SG is an organization that I am proud to be a part of, as it connects my passions of social good, technology and education. I have been able to form relationships with hardworking individuals who are passionate about social good and with community organizations that are looking to make a difference in the world, which is incredibly exciting.</p>
-				<h4>Fun facts about me!</h4>
-				<p>- I had an amazing experience studying abroad in Cusco, Peru! </p>
-				<p>- I love posting on my photo account, @jiselletells :) </p>
-			</div>
-		</section>
-		<!- Abby Brosnan->
-		<section class="profile-box">
-			<div class="profile-img">
-				<img src="{{ "assets/images/memberPictures/AbbyBrosnan.jpeg" | relative_url }}" alt="Abby Brosnan" />
-				<div class="profile-img-container">
-					<p>Abby Brosnan</p>
-				</div>
-			</div>
-			<div class="profile-description">
-				<h1>Abby Brosnan</h1>
-				<h2>Outreach Coordinator</h2>
-				<p>
-					<span class='grad-date'>May 2021</span>,
-					B.S. in Computer Science, Minor in Environmental Science and Studies
-				</p>
-				<h4>Why are you passionate about CS+SG?</h4>
-				<p>I think everyone has an obligation to use their skills and talents to make a positive impact on others, whatever that may be.  A lot of organizations in the community have no idea how much more they could be accomplishing with technology, or just don't have the tools to accomplish it.  Every time we empower an organization with technology, we help them as well as all the people they help through their mission, and it's a great feeling.</p>
-				<h4>Fun facts about me!</h4>
-				<p>I've been skydiving!</p>
-			</div>
-		</section>
-		<!- Savannah Evans ->
-		<section class="profile-box">
-			<div class="profile-img">
-				<img src="{{ "assets/images/memberPictures/SavannahEvans.jpeg" | relative_url }}" alt="Savannah Evans" />
-				<div class="profile-img-container">
-					<p>Savannah Evans</p>
-				</div>
-			</div>
-			<div class="profile-description">
-				<h1>Savannah Evans</h1>
-				<h2>Events Coordinator</h2>
-				<p>
-				<span class='grad-date'>May 2021</span>,
-				B.S. in Computer Science, B.A. in Communication Studies
-				</p>
-				<h4>Why are you passionate about CS+SG?</h4>
-				<p>Technology holds the ability to be incredibly impactful and I want to help ensure that it is being used to promote positive social change.
-				</p>
-				<h4>Fun facts about me!</h4>
-				<li> I had no idea what computer science was until I took COMP 110 in the fall of my freshman year. </li>
-				<li> Favorite things: Snickers, A24 movies, Oxford commas, UX design, my cat George, Timothee Chalamet</li>
-			</div>
-		</section>
-		<!- Austin Wang->
-		<section class="profile-box">
-			<div class="profile-img">
-				<img src="{{ "assets/images/memberPictures/AustinWang.jpg" | relative_url }}" alt="Austin Wang" />
-				<div class="profile-img-container">
-					<p>Austin Wang</p>
-				</div>
-			</div>
-			<div class="profile-description">
-				<h1>Austin Wang</h1>
-				<h2>Technology Chair</h2>
-				<p>
-					<span class='grad-date'>May 2020</span>,
-					B.S. in Computer Science, B.S. in Mathematics
-				</p>
-				<h4>Why are you passionate about CS+SG?</h4>
-				<p>I think that we, as CS majors, tend to underestimate the scope of our own influence. A lot of us have a one track mind hooked on a lucrative job market and research opportunities. We often overlook the ways in which we can impact areas outside of our bubble. I hope CS+SG creates passion in environmental science, healthcare, social justice, and more for CS students. *DAB*</p>
-				<h4>Fun facts about me!</h4>
-				<ul>
-					<li>I help organize HackNC. Contact me if you're interested; we're always looking for more hands & heads (& sponsors)!</li>
-					<li>I used to (sometimes still) do research in the CS department. If you need any advice about research opportunities, hmu.</li>
-					<li>My favorite season is winter. I tell myself I don't have a favorite color, but I think it's either orange or blue.</li>
-					<li>I like The Killers, John Mayer, Lupe Fiasco, and so much more.</li>
-					<li>I like to take pictures. I shoot on a Canon EOS 500D ~ Sigma 30mm f/1.4 Art ~ Canon 50mm f/1.8 STM.</li>
-				</ul>
-			</div>
-		</section>
-		<!- Nick Day ->
-		<section class="profile-box">
-			<div class="profile-img">
-				<img src="{{ "assets/images/memberPictures/NickDay.jpg" | relative_url }}" alt="Nicholas Day" />
-				<div class="profile-img-container">
-					<p>Nicholas Day</p>
-				</div>
-			</div>
-			<div class="profile-description">
-				<h1>Nicholas Day</h1>
-				<h2>Technology Chair</h2>
-				<p>
-					<span class='grad-date'>May 2022</span>,
+					<span class='grad-date'>May 2026</span>,
 					B.S. in Computer Science
 				</p>
-				<h4>Why are you passionate about CS+SG?</h4>
-				<p>I love helping the community and working on technical projects. </p>
+				<h4>What is something you are looking forward to for this semester on CSSG?</h4>
+				<p>
+				Helping plan fun events for our teams!
+				</p>
 			</div>
 		</section>
-		<!- Lindsay Zhou ->
+		<!-- Armaan -->
 		<section class="profile-box">
 			<div class="profile-img">
-				<img src="{{ "assets/images/memberPictures/LindsayZhou.jpg" | relative_url }}" alt="Lindsay Zhou" />
+				<img src="{{ "assets/images/memberPictures/ArmaanPunj.jpeg" | relative_url }}" alt="Armaan Punj" />
 				<div class="profile-img-container">
-					<p>Lindsay Zhou</p>
+					<p>Armaan Punj</p>
 				</div>
 			</div>
 			<div class="profile-description">
-				<h1>Lindsay Zhou</h1>
-				<h2>Technology Chair</h2>
+				<h1>Armaan Punj</h1>
+				<h2>Events Lead</h2>
 				<p>
-					<span class='grad-date'>May 2022</span>,
-					B.S. in Computer Science, B.A. in Linguistics, Minor in Japanese
+					<span class='grad-date'>May 2026</span>,
+					B.S. in Computer Science, Minor in Entrepreneurship 
 				</p>
-				<h4>Why are you passionate about CS+SG?</h4>
-				<p>I believe in taking a human-centric approach to technology, and I can think of no better way to do that than to create technology that directly benefits the community around me. CS+SG is an amazing outlet for both my creative and technical sides, and I especially love working with so many other people who are passionate about driving positive change.</p>
-				<h4>Fun facts about me!</h4>
-				<p> I'm a huge fan of hackathons, so I help out with organizing several of the hackathons at UNC. Outside of tech, I love writing, and I spend a lot of my free time on a novel I've been working on!</p>
+				<h4>What is something you are looking forward to for this semester on CSSG?</h4>
+				<p>
+				Meeting passionate CS students working towards a common goal
+				</p>
 			</div>
 		</section>
-		<!- Ella Carter ->
+		<!-- Chris -->
 		<section class="profile-box">
 			<div class="profile-img">
-				<img src="{{ "assets/images/memberPictures/EllaCarter.png" | relative_url }}" alt="Ella Carter" />
+				<img src="{{ "assets/images/memberPictures/ChristopherArraya.jpg" | relative_url }}" alt="Christopher Arraya" />
 				<div class="profile-img-container">
-					<p>Ella Carter</p>
+					<p>Christopher Arraya</p>
 				</div>
 			</div>
 			<div class="profile-description">
-				<h1>Ella Carter</h1>
-				<h2>Project Manager</h2>
+				<h1>Christopher Arraya</h1>
+				<h2>Education Team Lead</h2>
 				<p>
-					<span class='grad-date'>May 2022</span>,
-					B.S. in Computer Science, B.S. in Environmental Science on the Quantitative Systems Track
+					<span class='grad-date'>May 2026</span>,
+					B.S. in Computer Science, B.A. in Sociology
 				</p>
-				<h4>Why are you passionate about CS+SG?</h4>
-				<p>For one, I love learning about and understanding computer science. Technology is strongly shaping the human experience, and I love the idea of manipulating and applying my passion for computer science to other fields to help people out.</p>
-				<h4>Fun facts about me!</h4>
-				<p> I took a gap year and worked for the National Park Service in St. Louis. During that internship, my car got stolen twice in three days and totaled. A toy version of my car is now on my keychain. </p>
+				<h4>What is something you are looking forward to for this semester on CSSG?</h4>
+				<p>
+				Teaching web development!
+				</p>
 			</div>
 		</section>
-		<!- Nikhil Vytla ->
+		<!-- Lalitha -->
 		<section class="profile-box">
 			<div class="profile-img">
-				<img src="{{ "assets/images/memberPictures/NikhilVytla.jpg" | relative_url }}" alt="Nikhil Vytla" />
+				<img src="{{ "assets/images/memberPictures/LalithaVadrevu.jpeg" | relative_url }}" alt="Lalitha Vadrevu" />
 				<div class="profile-img-container">
-					<p>Nikhil Vytla</p>
+					<p>Lalitha Vadrevu</p>
 				</div>
 			</div>
 			<div class="profile-description">
-				<h1>Nikhil Vytla</h1>
-				<h2>Project Manager</h2>
+				<h1>Lalitha Vadrevu</h1>
+				<h2>Education Team TA</h2>
 				<p>
-					<span class='grad-date'>May 2021</span>,
-					B.S. in Computer Science, B.S. in Statistics
+					<span class='grad-date'>May 2024</span>,
+					B.S. in Computer Science and Statistics
 				</p>
-				<h4>Why are you passionate about CS+SG?</h4>
-				<p>I firmly believe in using technology to provide equal access to living and learning, and I hope CS+SG shows members that technology and computer science can truly inspire communities in a multitude of ways, whether that be by simply raising awareness for an issue, building a platform for people to have a voice, or creating interactive robots or games for children with physical and mental impairments!</p>
-				<h4>Fun facts about me!</h4>
-				<ul>
-					<li>I'm one of the original co-founders and current Director of Operations of a tutoring and educational technology nonprofit located in the Bay Area, Onclass.org. Ask me about my life in California!</li>
-					<li>I used to have two carnivorous beta fish in the same tank (big no-no). Funnily enough, they both died peacefully.</li>
-					<li>Favorite things in random order: rock climbing, stargazing, headbanging to lo-fi, 60° weather, air-drumming, and eating food.</li>
-				</ul>
+				<h4>What is something you are looking forward to for this semester on CSSG?</h4>
+				<p>
+				I look forward to interacting with students and helping them improve their programming skills during each class. 
+				</p>
 			</div>
 		</section>
-		<!- Yang Chen ->
+		<!-- Destiny -->
 		<section class="profile-box">
 			<div class="profile-img">
-				<img src="{{ "assets/images/memberPictures/YangChen.jpeg" | relative_url }}" alt="Yang Chen" />
+				<img src="{{ "assets/images/memberPictures/DestinyOkonkwo.jpg" | relative_url }}" alt="Destiny Okonkwo" />
 				<div class="profile-img-container">
-					<p>Yang Chen</p>
+					<p>Destiny Okonkwo</p>
 				</div>
 			</div>
 			<div class="profile-description">
-				<h1>Yang Chen</h1>
-				<h2>Past Project Manager</h2>
+				<h1>Destiny Okonkwo</h1>
+				<h2>Education Team TA</h2>
 				<p>
-					<span class='grad-date'>May 2022</span>,
-					B.S. in Computer Science, B.S. in Statistics, and Minor in Mathematics
+					<span class='grad-date'>May 2026</span>,
+					B.S. in Computer Science and Psychology
 				</p>
-				<h4>Why are you passionate about CS+SG?</h4>
-				<p>It helps introduce fun, but impactful projects for a variety of students and teaches project management and technical skills.</p>
-				<h4>Fun facts about me!</h4>
-				<p>I like to practice meditation and yoga!</p>
+				<h4>What is something you are looking forward to for this semester on CSSG?</h4>
+				<p>
+				Getting to know students and working on projects with everyone!
+				</p>
 			</div>
 		</section>
-</section>-->
-
+		<!-- Nirmal -->
+		<section class="profile-box">
+			<div class="profile-img">
+				<img src="{{ "assets/images/memberPictures/NirmalRajendran.jpg" | relative_url }}" alt="Nirmal Rajendran" />
+				<div class="profile-img-container">
+					<p>Nirmal Rajendran</p>
+				</div>
+			</div>
+			<div class="profile-description">
+				<h1>Nirmal Rajendran</h1>
+				<h2>CATCH Project Manager</h2>
+				<p>
+					<span class='grad-date'>May 2025</span>,
+					B.S. in Computer and Information Science
+				</p>
+				<h4>What is something you are looking forward to for this semester on CSSG?</h4>
+				<p>
+				I'm looking forward to seeing all the cool projects we create!
+				</p>
+			</div>
+		</section>
+		<!-- Nithin -->
+		<section class="profile-box">
+			<div class="profile-img">
+				<img src="{{ "assets/images/memberPictures/NithinSivakumaran.jpg" | relative_url }}" alt="Nithin Sivakumaran" />
+				<div class="profile-img-container">
+					<p>Nithin Sivakumaran</p>
+				</div>
+			</div>
+			<div class="profile-description">
+				<h1>Nithin Sivakumaran</h1>
+				<h2>CATCH Tech Lead</h2>
+				<p>
+					<span class='grad-date'>May 2026</span>,
+					B.S. in Computer Science, B.S. in Economics
+				</p>
+				<h4>What is something you are looking forward to for this semester on CSSG?</h4>
+				<p>
+				I am looking forward to working with our team on adding new parts to the CATCH project. I’m also looking forward to attending CSSG social events with all of our members!
+				</p>
+			</div>
+		</section>
+		<!-- Pranav -->
+		<section class="profile-box">
+			<div class="profile-img">
+				<img src="{{ "assets/images/memberPictures/PranavWagh.jpeg" | relative_url }}" alt="Pranav Wagh" />
+				<div class="profile-img-container">
+					<p>Pranav Wagh</p>
+				</div>
+			</div>
+			<div class="profile-description">
+				<h1>Pranav Wagh</h1>
+				<h2>Compass Tech Lead</h2>
+				<p>
+					<span class='grad-date'>May 2026</span>
+					B.S. in Computer Science and Mathematics, Minor in Neuroscience
+				</p>
+				<h4>What is something you are looking forward to for this semester on CSSG?</h4>
+				<p>
+				I'm excited about working with CSSG members on interesting projects.
+				</p>
+			</div>
+		</section>
+	</section>
+	
 <section id="PastExec" class="profile-header">
 	<div class="inner">
 		<header class="major">
