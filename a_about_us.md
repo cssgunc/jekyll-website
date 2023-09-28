@@ -18,7 +18,7 @@ author: null
 			<p>Our purpose is to foster discussions about how technology can be utilized to create a better world. In addition, we will work to advance the national organization’s mission: to empower a new generation of leaders working at the intersection of technology and social impact.</p>		
 			
 			<ul class="actions">
-				<li><a href="https://techshift.co/" class="button next scrolly">Find Out About TechShift</a></li>
+				<li><a target="_blank" href="https://www.techshift.org/" class="button next scrolly">Find Out About TechShift</a></li>
 			</ul>
 		</header>
 	</div>
@@ -119,7 +119,7 @@ author: null
 		<!-- Chris -->
 		<section class="profile-box">
 			<div class="profile-img">
-				<img src="{{ "assets/images/memberPictures/ChristopherArraya.jpg" | relative_url }}" alt="Christopher Arraya" />
+				<img src="{{ "assets/images/memberPictures/ChristopherArraya.JPG" | relative_url }}" alt="Christopher Arraya" />
 				<div class="profile-img-container">
 					<p>Christopher Arraya</p>
 				</div>
@@ -203,7 +203,7 @@ author: null
 		<!-- Nithin -->
 		<section class="profile-box">
 			<div class="profile-img">
-				<img src="{{ "assets/images/memberPictures/NithinSivakumaran.jpg" | relative_url }}" alt="Nithin Sivakumaran" />
+				<img src="{{ "assets/images/memberPictures/NithinSivakumaran.JPG" | relative_url }}" alt="Nithin Sivakumaran" />
 				<div class="profile-img-container">
 					<p>Nithin Sivakumaran</p>
 				</div>
@@ -288,112 +288,3 @@ author: null
     </div>
 </div>
 </section>
-
-
-<!--<section id="two" class="spotlights profiles">
-	<!- Izzi Hinks->
-	<section class="profile-box">
-	<!-Neil Davis->
-		<div class="profile-img">
-			<img src="{{ "assets/images/memberPictures/NeilDavis.jpg" | relative_url }}" alt="Neil Davis" />
-			<div class="profile-img-container">
-				<p>Neil Davis</p> 
-				<p>President</p>
-				<p>2018</p>
-			</div>
-		</div>
-	<!- Izzi ->
-		<div class="profile-img">
-			<img src="{{ "assets/images/memberPictures/IzziHinks.jpg" | relative_url }}" alt="Isabella (Izzi) Hinks" />
-			<div class="profile-img-container">
-				<p>Isabella (Izzi) Hinks</p> 
-				<p>Project Coordinator</p>
-				<p>2018</p>
-			</div>
-		</div>
-	<!- Tim ->
-		<div class="profile-img">
-			<img src="{{ "assets/images/memberPictures/TimothyLo.JPG" | relative_url }}" alt="Timothy Lo" />
-			<div class="profile-img-container">
-				<p>Timothy Lo</p>
-				<p>Treasurer</p>
-				<p>2018</p>
-			</div>
-		</div>
-	<!-Armaan->
-		<div class="profile-img">
-			<img src="{{ "assets/images/memberPictures/ArmaanSethi.jpg" | relative_url }}" alt="Armaan Sethi" />
-			<div class="profile-img-container">
-				<p>Armaan Sethi</p>
-				<p>Events Coordinator</p>
-				<p>2018-2019</p>
-			</div>
-		</div>
-	<!-Grant->
-		<div class="profile-img">
-			<img src="{{ "assets/images/memberPictures/GrantMiller.jpg" | relative_url }}" alt="Grant Miller" />
-			<div class="profile-img-container">
-				<p>Grant Miller</p>
-				<p>Education Chair</p>
-				<p>2019</p>
-			</div>
-		</div>
-	<!-Visrut->
-	<div class="profile-img">
-			<img src="{{ "assets/images/memberPictures/VisrutSudhakar.jpg" | relative_url }}" alt="Visrut Sudhakar" />
-			<div class="profile-img-container">
-				<p>Visrut Sudhakar</p> 
-				<p>Vice President and Treasurer</p>
-				<p>2019</p>
-			</div>
-		</div>
-	</section>
-</section>
--->
-
-<!-- <section id="Member">
-	<div class="inner">
-		<header class="major">
-			<h2>Our Members</h2>
-		</header>
-		<span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span>
-		<div class="box alt">
-			<div class="row 50% uniform">
-				<div class="4u"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
-				<div class="4u"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
-				<div class="4u$"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
-
-				<div class="4u"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
-				<div class="4u"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
-				<div class="4u$"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
-
-				<div class="4u"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
-				<div class="4u"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
-				<div class="4u$"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
-			</div>
-		</div>
-	</div>
-	</section> -->
-
-
-<!--
-			<!-- Grant 
-		<section class="profile-box">
-			<div class="profile-img">
-				<img src="{{ "assets/images/memberPictures/GrantMiller.jpg" | relative_url }}" alt="Grant Miller" />
-				<div class="profile-img-container">
-					<p>Grant Miller</p>
-				</div>
-			</div>
-			<div class="profile-description">
-				<h1>Grant Miller</h1>
-				<h2>Education Chair</h2>
-				<p>
-					<span class='grad-date'>May 2020</span>,
-					B.S. and M.S. in Computer Science
-				</p>
-				<h4>Why are you passionate about CS+SG?</h4>
-				<p>Because technology has a huge potential to positively benefit society.</p>
-			</div>
-		</section>
--->
