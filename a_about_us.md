@@ -70,7 +70,7 @@ author: null
 				</p>
 				<h4>What is something you are looking forward to for this semester on CSSG?</h4>
 				<p>
-				Coming soon!
+				I am excited to introduce new initiatives and work with our amazing executive team and members!
 				</p>
 			</div>
 		</section>
