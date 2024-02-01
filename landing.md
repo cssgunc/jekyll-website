@@ -39,7 +39,7 @@ nav-menu: true
 				</header>
 				<p>Are you interested in using technology to create social good? We are an organization for all students at UNC, both undergraduate and graduate students. We are looking for people who are eager to make a difference in their community and are ready to devote time to a cause that matters to them.</p>
 				<ul class="actions">
-					<li><a href="https://forms.gle/Q5URJEnK9f6phnr37" class="button special big" target="_blank">New Member Applications</a></li>
+					<li><a href="https://forms.gle/wXUsvtxVb7cvLsWN9" class="button special big" target="_blank">Fall 2024 Interest Form</a></li>
 				</ul>
 			</div>
 		</div>
@@ -71,9 +71,6 @@ nav-menu: true
 					<h3>Tell us how we can help.</h3>
 				</header>
 				<p>Be the advocate for your community. Tell others what is happening and share what is important to you. Unfortunately, many communities share similar problems. Together we are stronger.</p>
-				<ul class="actions">
-					<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdug-fT_YsV0NUG7LPFBJXyzi9bFwYIDqiV1cjY-BaRZOjW3Q/viewform?usp=pp_url" class="button">Join our listserv</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
