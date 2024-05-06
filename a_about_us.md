@@ -66,7 +66,7 @@ author: null
 				<h2>President</h2>
 				<p>
 					<span class='grad-date'>May 2024</span>,
-					B.S. in Computer Science, B.S. in Economics
+					B.S. in Computer Science, B.S. in Economics, Minor in Cognitive Science
 				</p>
 				<h4>What is something you are looking forward to for this semester on CSSG?</h4>
 				<p>
